@@ -1,0 +1,904 @@
+{
+    "annotations": [
+        {
+            "caption": "a green bench and a blue bowl"
+        },
+        {
+            "caption": "a blue bench and a green bowl"
+        },
+        {
+            "caption": "a green bench and a blue cake"
+        },
+        {
+            "caption": "a blue bench and a green cake"
+        },
+        {
+            "caption": "a brown horse and a blue vase"
+        },
+        {
+            "caption": "a blue horse and a brown vase"
+        },
+        {
+            "caption": "a blue backpack and a brown cow"
+        },
+        {
+            "caption": "a brown backpack and a blue cow"
+        },
+        {
+            "caption": "a blue backpack and a red book"
+        },
+        {
+            "caption": "a red backpack and a blue book"
+        },
+        {
+            "caption": "a brown bear and a red book"
+        },
+        {
+            "caption": "a red bear and a brown book"
+        },
+        {
+            "caption": "a red orange and a brown sheep"
+        },
+        {
+            "caption": "a brown orange and a red sheep"
+        },
+        {
+            "caption": "a green banana and a brown dog"
+        },
+        {
+            "caption": "a brown banana and a green dog"
+        },
+        {
+            "caption": "a green banana and a brown horse"
+        },
+        {
+            "caption": "a brown banana and a green horse"
+        },
+        {
+            "caption": "a blue cake and a red suitcase"
+        },
+        {
+            "caption": "a red cake and a blue suitcase"
+        },
+        {
+            "caption": "a brown elephant and a red suitcase"
+        },
+        {
+            "caption": "a red elephant and a brown suitcase"
+        },
+        {
+            "caption": "a green apple and a brown horse"
+        },
+        {
+            "caption": "a brown apple and a green horse"
+        },
+        {
+            "caption": "a green banana and a blue vase"
+        },
+        {
+            "caption": "a blue banana and a green vase"
+        },
+        {
+            "caption": "a blue backpack and a brown bear"
+        },
+        {
+            "caption": "a brown backpack and a blue bear"
+        },
+        {
+            "caption": "a green apple and a blue vase"
+        },
+        {
+            "caption": "a blue apple and a green vase"
+        },
+        {
+            "caption": "a green banana and a red suitcase"
+        },
+        {
+            "caption": "a red banana and a green suitcase"
+        },
+        {
+            "caption": "a blue bowl and a brown elephant"
+        },
+        {
+            "caption": "a brown bowl and a blue elephant"
+        },
+        {
+            "caption": "a blue backpack and a red orange"
+        },
+        {
+            "caption": "a red backpack and a blue orange"
+        },
+        {
+            "caption": "a blue backpack and a red chair"
+        },
+        {
+            "caption": "a red backpack and a blue chair"
+        },
+        {
+            "caption": "a blue cup and a brown horse"
+        },
+        {
+            "caption": "a brown cup and a blue horse"
+        },
+        {
+            "caption": "a brown sheep and a blue vase"
+        },
+        {
+            "caption": "a blue sheep and a brown vase"
+        },
+        {
+            "caption": "a brown cat and a gold clock"
+        },
+        {
+            "caption": "a gold cat and a brown clock"
+        },
+        {
+            "caption": "a blue backpack and a green banana"
+        },
+        {
+            "caption": "a green backpack and a blue banana"
+        },
+        {
+            "caption": "a brown horse and a red orange"
+        },
+        {
+            "caption": "a red horse and a brown orange"
+        },
+        {
+            "caption": "a red chair and a brown elephant"
+        },
+        {
+            "caption": "a brown chair and a red elephant"
+        },
+        {
+            "caption": "a green apple and a blue backpack"
+        },
+        {
+            "caption": "a blue apple and a green backpack"
+        },
+        {
+            "caption": "a blue backpack and a gold clock"
+        },
+        {
+            "caption": "a gold backpack and a blue clock"
+        },
+        {
+            "caption": "a brown dog and a red orange"
+        },
+        {
+            "caption": "a red dog and a brown orange"
+        },
+        {
+            "caption": "a blue backpack and a brown sheep"
+        },
+        {
+            "caption": "a brown backpack and a blue sheep"
+        },
+        {
+            "caption": "a blue backpack and a brown giraffe"
+        },
+        {
+            "caption": "a brown backpack and a blue giraffe"
+        },
+        {
+            "caption": "a red book and a blue cake"
+        },
+        {
+            "caption": "a blue book and a red cake"
+        },
+        {
+            "caption": "a red suitcase and a blue vase"
+        },
+        {
+            "caption": "a blue suitcase and a red vase"
+        },
+        {
+            "caption": "a blue cup and a brown sheep"
+        },
+        {
+            "caption": "a brown cup and a blue sheep"
+        },
+        {
+            "caption": "a brown bear and a red train"
+        },
+        {
+            "caption": "a blue cup and a red orange"
+        },
+        {
+            "caption": "a red cup and a blue orange"
+        },
+        {
+            "caption": "a green apple and a red suitcase"
+        },
+        {
+            "caption": "a red apple and a green suitcase"
+        },
+        {
+            "caption": "a blue bowl and a red train"
+        },
+        {
+            "caption": "a red bowl and a blue train"
+        },
+        {
+            "caption": "a green bench and a red orange"
+        },
+        {
+            "caption": "a red bench and a green orange"
+        },
+        {
+            "caption": "a brown cat and a red orange"
+        },
+        {
+            "caption": "a red cat and a brown orange"
+        },
+        {
+            "caption": "a green apple and a red train"
+        },
+        {
+            "caption": "a red apple and a green train"
+        },
+        {
+            "caption": "a brown giraffe and a red train"
+        },
+        {
+            "caption": "a red giraffe and a brown train"
+        },
+        {
+            "caption": "a blue boat and a red suitcase"
+        },
+        {
+            "caption": "a red boat and a blue suitcase"
+        },
+        {
+            "caption": "a blue bowl and a brown horse"
+        },
+        {
+            "caption": "a brown bowl and a blue horse"
+        },
+        {
+            "caption": "a blue backpack and a red train"
+        },
+        {
+            "caption": "a red backpack and a blue train"
+        },
+        {
+            "caption": "a gold clock and a red orange"
+        },
+        {
+            "caption": "a red clock and a gold orange"
+        },
+        {
+            "caption": "a brown bear and a blue vase"
+        },
+        {
+            "caption": "a blue bear and a brown vase"
+        },
+        {
+            "caption": "a green apple and a brown elephant"
+        },
+        {
+            "caption": "a brown apple and a green elephant"
+        },
+        {
+            "caption": "a green banana and a brown bear"
+        },
+        {
+            "caption": "a brown banana and a green bear"
+        },
+        {
+            "caption": "a blue boat and a brown cat"
+        },
+        {
+            "caption": "a brown boat and a blue cat"
+        },
+        {
+            "caption": "a green banana and a blue boat"
+        },
+        {
+            "caption": "a blue banana and a green boat"
+        },
+        {
+            "caption": "a red car and a blue cup"
+        },
+        {
+            "caption": "a blue car and a red cup"
+        },
+        {
+            "caption": "a blue backpack and a red car"
+        },
+        {
+            "caption": "a red backpack and a blue car"
+        },
+        {
+            "caption": "a brown cow and a blue cup"
+        },
+        {
+            "caption": "a blue cow and a brown cup"
+        },
+        {
+            "caption": "a red train and a blue vase"
+        },
+        {
+            "caption": "a blue train and a red vase"
+        },
+        {
+            "caption": "a brown giraffe and a red orange"
+        },
+        {
+            "caption": "a red giraffe and a brown orange"
+        },
+        {
+            "caption": "a green banana and a brown cow"
+        },
+        {
+            "caption": "a brown banana and a green cow"
+        },
+        {
+            "caption": "a brown giraffe and a blue vase"
+        },
+        {
+            "caption": "a blue giraffe and a brown vase"
+        },
+        {
+            "caption": "a brown cow and a red suitcase"
+        },
+        {
+            "caption": "a red cow and a brown suitcase"
+        },
+        {
+            "caption": "a green apple and a blue cup"
+        },
+        {
+            "caption": "a blue apple and a green cup"
+        },
+        {
+            "caption": "a red book and a brown sheep"
+        },
+        {
+            "caption": "a brown book and a red sheep"
+        },
+        {
+            "caption": "a green banana and a brown giraffe"
+        },
+        {
+            "caption": "a brown banana and a green giraffe"
+        },
+        {
+            "caption": "a blue boat and a red book"
+        },
+        {
+            "caption": "a red boat and a blue book"
+        },
+        {
+            "caption": "a blue cup and a brown elephant"
+        },
+        {
+            "caption": "a brown cup and a blue elephant"
+        },
+        {
+            "caption": "a red chair and a brown sheep"
+        },
+        {
+            "caption": "a brown chair and a red sheep"
+        },
+        {
+            "caption": "a brown bear and a blue boat"
+        },
+        {
+            "caption": "a blue bear and a brown boat"
+        },
+        {
+            "caption": "a red car and a white sheep"
+        },
+        {
+            "caption": "a blue bird and a brown bear"
+        },
+        {
+            "caption": "a green apple and a black backpack"
+        },
+        {
+            "caption": "a green cup and a blue cell phone"
+        },
+        {
+            "caption": "a yellow book and a red vase"
+        },
+        {
+            "caption": "a white car and a red sheep"
+        },
+        {
+            "caption": "a brown bird and a blue bear"
+        },
+        {
+            "caption": "a black apple and a green backpack"
+        },
+        {
+            "caption": "a blue cup and a green cell phone"
+        },
+        {
+            "caption": "a red book and a yellow vase"
+        },
+        {
+            "caption": "a red apple and yellow bananas"
+        },
+        {
+            "caption": "a yellow apple and red bananas"
+        },
+        {
+            "caption": "a black hat and a red scarf"
+        },
+        {
+            "caption": "a red hat and a black scarf"
+        },
+        {
+            "caption": "a silver spoon and a blue plate"
+        },
+        {
+            "caption": "a yellow bus and a green tree"
+        },
+        {
+            "caption": "a green bus and a yellow tree"
+        },
+        {
+            "caption": "a red apple and a purple grape"
+        },
+        {
+            "caption": "a purple apple and a red grape"
+        },
+        {
+            "caption": "a white dove and a black feather"
+        },
+        {
+            "caption": "a black dove and a white feather"
+        },
+        {
+            "caption": "a brown acorn and a green leaf"
+        },
+        {
+            "caption": "a green acorn and a brown leaf"
+        },
+        {
+            "caption": "a red stop sign and a white line"
+        },
+        {
+            "caption": "a stop sign and red white line"
+        },
+        {
+            "caption": "a black cat and a brown mouse"
+        },
+        {
+            "caption": "a brown cat and a black mouse"
+        },
+        {
+            "caption": "a blue pen and a yellow highlighter"
+        },
+        {
+            "caption": "a yellow pen and a blue highlighter"
+        },
+        {
+            "caption": "a black moon and a white sky"
+        },
+        {
+            "caption": "a yellow pencil and a blue notebook"
+        },
+        {
+            "caption": "a green leaf and a yellow flower"
+        },
+        {
+            "caption": "a yellow leaf and a green flower"
+        },
+        {
+            "caption": "a black cat and a white paw"
+        },
+        {
+            "caption": "a white cat and a black paw"
+        },
+        {
+            "caption": "a yellow duck and a blue pond"
+        },
+        {
+            "caption": "a green frog and a brown pond"
+        },
+        {
+            "caption": "a brown frog and a green pond"
+        },
+        {
+            "caption": "a yellow sun and a red sunset"
+        },
+        {
+            "caption": "a red sun and a yellow sunset"
+        },
+        {
+            "caption": "a blue pen and a black ink"
+        },
+        {
+            "caption": "a black pen and a blue ink"
+        },
+        {
+            "caption": "a green grass and a yellow dandelion"
+        },
+        {
+            "caption": "a yellow grass and a green dandelion"
+        },
+        {
+            "caption": "a black cat and a gray mouse"
+        },
+        {
+            "caption": "a gray cat and a black mouse"
+        },
+        {
+            "caption": "a red apple and a yellow pear"
+        },
+        {
+            "caption": "a yellow apple and a red pear"
+        },
+        {
+            "caption": "a white snow and a blue sled"
+        },
+        {
+            "caption": "a blue snow and a white sled"
+        },
+        {
+            "caption": "a green frog and a yellow fly"
+        },
+        {
+            "caption": "a yellow frog and a green fly"
+        },
+        {
+            "caption": "a yellow pencil and a red eraser"
+        },
+        {
+            "caption": "a red pencil and a yellow eraser"
+        },
+        {
+            "caption": "a black cat and a white whisker"
+        },
+        {
+            "caption": "a white cat and a black whisker"
+        },
+        {
+            "caption": "a brown tree and a green grass"
+        },
+        {
+            "caption": "a green tree and a brown grass"
+        },
+        {
+            "caption": "a red rose and a white carnation"
+        },
+        {
+            "caption": "a white rose and a red carnation"
+        },
+        {
+            "caption": "a white cloud and a black sky"
+        },
+        {
+            "caption": "a black cloud and a white sky"
+        },
+        {
+            "caption": "a green leaf and a yellow butterfly"
+        },
+        {
+            "caption": "a yellow leaf and a green butterfly"
+        },
+        {
+            "caption": "a red tomato and a yellow pepper"
+        },
+        {
+            "caption": "a yellow tomato and a red pepper"
+        },
+        {
+            "caption": "a red apple and a green kiwi"
+        },
+        {
+            "caption": "a green apple and a red kiwi"
+        },
+        {
+            "caption": "a white piano and a black bench"
+        },
+        {
+            "caption": "a black piano and a white bench"
+        },
+        {
+            "caption": "a brown jacket and a black hat"
+        },
+        {
+            "caption": "a red bear and a brown train"
+        },
+        {
+            "caption": "a red cylinder and a blue cube"
+        },
+        {
+            "caption": "a blue cylinder and a red cube"
+        },
+        {
+            "caption": "a blue spoon and a silver plate"
+        },
+        {
+            "caption": "a blue bird and a yellow canary"
+        },
+        {
+            "caption": "a canary and a yellow bluebird"
+        },
+        {
+            "caption": "a yellow taxi and a black tire"
+        },
+        {
+            "caption": "a black taxi and a yellow tire"
+        },
+        {
+            "caption": "a green snake and a brown log"
+        },
+        {
+            "caption": "a brown snake and a green log"
+        },
+        {
+            "caption": "a white moon and a black sky"
+        },
+        {
+            "caption": "a blue pencil and a yellow notebook"
+        },
+        {
+            "caption": "a blue duck and a yellow pond"
+        },
+        {
+            "caption": "a blue jay and a green parrot"
+        },
+        {
+            "caption": "a green jay and a blue parrot"
+        },
+        {
+            "caption": "a brown squirrel and a black nut"
+        },
+        {
+            "caption": "a black squirrel and a brown nut"
+        },
+        {
+            "caption": "a white swan and a black lake"
+        },
+        {
+            "caption": "a black swan and a white lake"
+        },
+        {
+            "caption": "a brown log and a green moss"
+        },
+        {
+            "caption": "a green log and a brown moss"
+        },
+        {
+            "caption": "a brown guitar and a black amplifier"
+        },
+        {
+            "caption": "a black guitar and a brown amplifier"
+        },
+        {
+            "caption": "a white envelope and a blue stamp"
+        },
+        {
+            "caption": "a blue envelope and a white stamp"
+        },
+        {
+            "caption": "a blue bicycle and a red helmet"
+        },
+        {
+            "caption": "a red bicycle and a blue helmet"
+        },
+        {
+            "caption": "a yellow taxi and a black tire"
+        },
+        {
+            "caption": "a black taxi and a yellow tire"
+        },
+        {
+            "caption": "a black jacket and a brown hat"
+        },
+        {
+            "caption": "a blue rose and a green tulip"
+        },
+        {
+            "caption": "a green rose and a blue tulip"
+        },
+        {
+            "caption": "a red school bus and a green bag"
+        },
+        {
+            "caption": "a green school bus and a red bag"
+        },
+        {
+            "caption": "a yellow rabbit and a red rat"
+        },
+        {
+            "caption": "a red rabbit and a yellow rat"
+        },
+        {
+            "caption": "a red lipstick and a pink blush"
+        },
+        {
+            "caption": "a pink lipstick and a red blush"
+        },
+        {
+            "caption": "a blue bag and a green water bottle"
+        },
+        {
+            "caption": "a green bag and a blue water bottle"
+        },
+        {
+            "caption": "A bathroom with white tile and a beige toilet."
+        },
+        {
+            "caption": "A bathroom with beige tile and a white toilet."
+        },
+        {
+            "caption": "A green bathroom with a mirror and a pink sink."
+        },
+        {
+            "caption": "A pink bathroom with a mirror and a green sink."
+        },
+        {
+            "caption": "a black gold and white vase sitting on a counter"
+        },
+        {
+            "caption": "a black white and gold vase sitting on a counter"
+        },
+        {
+            "caption": "A small white kitchen with brown wood floor."
+        },
+        {
+            "caption": "A small brown kitchen with white wood floor."
+        },
+        {
+            "caption": "Kitchen scene, grey counter top on one side, whitish on the other and black sink with long neck faucet."
+        },
+        {
+            "caption": "Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet."
+        },
+        {
+            "caption": "Two toilet stall, one blue and the other orange."
+        },
+        {
+            "caption": "Two toilet stall, one orange and the other blue."
+        },
+        {
+            "caption": "A long, narrow yellow kitchen with black and white floor tiles."
+        },
+        {
+            "caption": "A long, narrow black kitchen with yellow and white floor tiles."
+        },
+        {
+            "caption": "Two hot dogs sit on a white paper plate near a soda cup which are sitting on a green picnic table while a bike and a silver car are parked nearby."
+        },
+        {
+            "caption": "Two hot dogs sit on a green paper plate near a soda cup which are sitting on a white picnic table while a bike and a silver car are parked nearby."
+        },
+        {
+            "caption": "A restroom features black and white checkered flooring and two toilets of which has a black seat and lid and the other a white seat and lid."
+        },
+        {
+            "caption": "A restroom features white and white checkered flooring and two toilets of which has a black seat and lid and the other a black seat and lid."
+        },
+        {
+            "caption": "Bathroom scene with white background and tan accents."
+        },
+        {
+            "caption": "Bathroom scene with tan background and white accents."
+        },
+        {
+            "caption": "A stainless steel oven sits between white cupboards with black counter tops while sun shines through the kitchen windows."
+        },
+        {
+            "caption": "A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows."
+        },
+        {
+            "caption": "A kitchen with white tile floor and blue sloped ceiling."
+        },
+        {
+            "caption": "A kitchen with blue tile floor and white sloped ceiling."
+        },
+        {
+            "caption": "A bathroom with green tile and a red shower curtain."
+        },
+        {
+            "caption": "A bathroom with red tile and a green shower curtain."
+        },
+        {
+            "caption": "A white bath tub sits empty in a tan, clean bathroom."
+        },
+        {
+            "caption": "A tan bath tub sits empty in a white, clean bathroom."
+        },
+        {
+            "caption": "two white sheep, a black goat and a white goat in a field"
+        },
+        {
+            "caption": "two black sheep, a white goat and a white goat in a field"
+        },
+        {
+            "caption": "A black and white cat sits in a white sink."
+        },
+        {
+            "caption": "A black and white cat sits in a white sink."
+        },
+        {
+            "caption": "A woman in a white shirt and jeans holds a pink umbrella in the rain."
+        },
+        {
+            "caption": "A woman in a pink shirt and jeans holds a white umbrella in the rain."
+        },
+        {
+            "caption": "A small bathroom with a small brown toilet next to a white sink."
+        },
+        {
+            "caption": "A small bathroom with a small white toilet next to a brown sink."
+        },
+        {
+            "caption": "A black and green tile bathroom with a black toilet and a yellow bucket on the floor."
+        },
+        {
+            "caption": "A black and green tile bathroom with a yellow toilet and a black bucket on the floor."
+        },
+        {
+            "caption": "A red carpet in a bathroom with white fixtures."
+        },
+        {
+            "caption": "A white carpet in a bathroom with red fixtures."
+        },
+        {
+            "caption": "Many stoplights flash yellow on a snow covered street."
+        },
+        {
+            "caption": "Many stoplights flash snow on a yellow covered street."
+        },
+        {
+            "caption": "A blue scooter is parked near a curb in front of a green vintage car."
+        },
+        {
+            "caption": "A green scooter is parked near a curb in front of a blue vintage car."
+        },
+        {
+            "caption": "A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets."
+        },
+        {
+            "caption": "A dining area features a wood table and chairs, a brown refrigerator and light silver cabinets."
+        },
+        {
+            "caption": "Bathroom scene, white commode and matching white sink on light brown tone tiled floor."
+        },
+        {
+            "caption": "Bathroom scene, white commode and matching white sink on light brown tone tiled floor."
+        },
+        {
+            "caption": "A traffic light with a smile green light above a red sign."
+        },
+        {
+            "caption": "A traffic light with a smile red light above a green sign."
+        },
+        {
+            "caption": "The man on the large black motorcycle has pink chaps."
+        },
+        {
+            "caption": "The man on the large pink motorcycle has black chaps."
+        },
+        {
+            "caption": "A black motorcycle is parked on grey cobblestones."
+        },
+        {
+            "caption": "A grey motorcycle is parked on black cobblestones."
+        },
+        {
+            "caption": "The white and yellow clock with a red roof reads 11:44."
+        },
+        {
+            "caption": "The white and red clock with a yellow roof reads 11:44."
+        },
+        {
+            "caption": "A man in a gray jacket standing in a kitchen next to a black dog."
+        },
+        {
+            "caption": "A man in a black jacket standing in a kitchen next to a gray dog."
+        },
+        {
+            "caption": "a white bathroom with a black and white shower curtain"
+        },
+        {
+            "caption": "a white bathroom with a black and white shower curtain"
+        }
+    ]
+}

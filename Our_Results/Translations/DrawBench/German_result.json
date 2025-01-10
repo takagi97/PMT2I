@@ -1,0 +1,200 @@
+{"Category": "Colors", "caption": "A red colored car.", "German": "Ein rot gefärbtes Auto."}
+{"Category": "Colors", "caption": "A black colored car.", "German": "Ein schwarzes Auto."}
+{"Category": "Colors", "caption": "A pink colored car.", "German": "Ein rosa Auto."}
+{"Category": "Colors", "caption": "A black colored dog.", "German": "Ein schwarzer Hund."}
+{"Category": "Colors", "caption": "A red colored dog.", "German": "Ein rot gefärbter Hund."}
+{"Category": "Colors", "caption": "A blue colored dog.", "German": "Ein blau gefärbter Hund."}
+{"Category": "Colors", "caption": "A green colored banana.", "German": "Eine grün gefärbte Banane."}
+{"Category": "Colors", "caption": "A red colored banana.", "German": "Eine rot gefärbte Banane."}
+{"Category": "Colors", "caption": "A black colored banana.", "German": "Eine schwarz gefärbte Banane."}
+{"Category": "Colors", "caption": "A white colored sandwich.", "German": "Ein weißes Sandwich."}
+{"Category": "Colors", "caption": "A black colored sandwich.", "German": "Ein schwarzes Sandwich."}
+{"Category": "Colors", "caption": "An orange colored sandwich.", "German": "Ein orangefarbener Sandwich."}
+{"Category": "Colors", "caption": "A pink colored giraffe.", "German": "Eine pinkfarbene Giraffe."}
+{"Category": "Colors", "caption": "A yellow colored giraffe.", "German": "Eine gelb gefärbte Giraffe."}
+{"Category": "Colors", "caption": "A brown colored giraffe.", "German": "Eine braun gefärbte Giraffe."}
+{"Category": "Colors", "caption": "A red car and a white sheep.", "German": "Ein rotes Auto und ein weißes Schaf."}
+{"Category": "Colors", "caption": "A blue bird and a brown bear.", "German": "Ein blauer Vogel und ein brauner Bär."}
+{"Category": "Colors", "caption": "A green apple and a black backpack.", "German": "Ein grüner Apfel und ein schwarzer Rucksack."}
+{"Category": "Colors", "caption": "A green cup and a blue cell phone.", "German": "Eine grüne Tasse und ein blaues Handy."}
+{"Category": "Colors", "caption": "A yellow book and a red vase.", "German": "Ein gelbes Buch und eine rote Vase."}
+{"Category": "Colors", "caption": "A white car and a red sheep.", "German": "Ein weißes Auto und ein rotes Schaf."}
+{"Category": "Colors", "caption": "A brown bird and a blue bear.", "German": "Ein brauner Vogel und ein blauer Bär."}
+{"Category": "Colors", "caption": "A black apple and a green backpack.", "German": "Ein schwarzer Apfel und ein grüner Rucksack."}
+{"Category": "Colors", "caption": "A blue cup and a green cell phone.", "German": "Eine blaue Tasse und ein grünes Handy."}
+{"Category": "Colors", "caption": "A red book and a yellow vase.", "German": "Ein rotes Buch und eine gelbe Vase."}
+{"Category": "Conflicting", "caption": "A horse riding an astronaut.", "German": "Ein Pferd reitet einen Astronauten."}
+{"Category": "Conflicting", "caption": "A pizza cooking an oven.", "German": "Eine Pizza bäckt im Ofen."}
+{"Category": "Conflicting", "caption": "A bird scaring a scarecrow.", "German": "Ein Vogel erschreckt eine Vogelscheuche."}
+{"Category": "Conflicting", "caption": "A blue coloured pizza.", "German": "Eine blaue Pizza."}
+{"Category": "Conflicting", "caption": "Hovering cow abducting aliens.", "German": "Schwebende Kuh entführt Außerirdische."}
+{"Category": "Conflicting", "caption": "A panda making latte art.", "German": "Ein Panda, der Latte Art macht."}
+{"Category": "Conflicting", "caption": "A shark in the desert.", "German": "Ein Hai in der Wüste."}
+{"Category": "Conflicting", "caption": "An elephant under the sea.", "German": "Ein Elefant unter dem Meer."}
+{"Category": "Conflicting", "caption": "Rainbow coloured penguin.", "German": "Regenbogenfarbiger Pinguin."}
+{"Category": "Conflicting", "caption": "A fish eating a pelican.", "German": "Ein Fisch, der einen Pelikan frisst."}
+{"Category": "Counting", "caption": "One car on the street.", "German": "Ein Auto auf der Straße."}
+{"Category": "Counting", "caption": "Two cars on the street.", "German": "Zwei Autos auf der Straße."}
+{"Category": "Counting", "caption": "Three cars on the street.", "German": "Drei Autos auf der Straße."}
+{"Category": "Counting", "caption": "Four cars on the street.", "German": "Vier Autos auf der Straße."}
+{"Category": "Counting", "caption": "Five cars on the street.", "German": "Fünf Autos auf der Straße."}
+{"Category": "Counting", "caption": "One dog on the street.", "German": "Ein Hund auf der Straße."}
+{"Category": "Counting", "caption": "Two dogs on the street.", "German": "Zwei Hunde auf der Straße."}
+{"Category": "Counting", "caption": "Three dogs on the street.", "German": "Drei Hunde auf der Straße."}
+{"Category": "Counting", "caption": "Four dogs on the street.", "German": "Vier Hunde auf der Straße."}
+{"Category": "Counting", "caption": "Five dogs on the street.", "German": "Fünf Hunde auf der Straße."}
+{"Category": "Counting", "caption": "One cat and one dog sitting on the grass.", "German": "Eine Katze und ein Hund sitzen auf dem Gras."}
+{"Category": "Counting", "caption": "One cat and two dogs sitting on the grass.", "German": "Eine Katze und zwei Hunde sitzen auf dem Gras."}
+{"Category": "Counting", "caption": "One cat and three dogs sitting on the grass.", "German": "Eine Katze und drei Hunde sitzen auf dem Gras."}
+{"Category": "Counting", "caption": "Two cats and one dog sitting on the grass.", "German": "Zwei Katzen und ein Hund sitzen auf dem Gras."}
+{"Category": "Counting", "caption": "Two cats and two dogs sitting on the grass.", "German": "Zwei Katzen und zwei Hunde, die auf dem Gras sitzen."}
+{"Category": "Counting", "caption": "Two cats and three dogs sitting on the grass.", "German": "Zwei Katzen und drei Hunde sitzen auf dem Gras."}
+{"Category": "Counting", "caption": "Three cats and one dog sitting on the grass.", "German": "Drei Katzen und ein Hund sitzen auf dem Gras."}
+{"Category": "Counting", "caption": "Three cats and two dogs sitting on the grass.", "German": "Drei Katzen und zwei Hunde sitzen im Gras."}
+{"Category": "Counting", "caption": "Three cats and three dogs sitting on the grass.", "German": "Drei Katzen und drei Hunde sitzen auf dem Gras."}
+{"Category": "DALL-E", "caption": "A triangular purple flower pot. A purple flower pot in the shape of a triangle.", "German": "Ein dreieckiger lila Blumentopf. Ein lila Blumentopf in Form eines Dreiecks."}
+{"Category": "DALL-E", "caption": "A triangular orange picture frame. An orange picture frame in the shape of a triangle.", "German": "Ein dreieckiger orangefarbener Bilderrahmen. Ein orangefarbener Bilderrahmen in Form eines Dreiecks."}
+{"Category": "DALL-E", "caption": "A triangular pink stop sign. A pink stop sign in the shape of a triangle.", "German": "Ein dreieckiges rosafarbenes Stoppschild. Ein rosafarbenes Stoppschild in der Form eines Dreiecks."}
+{"Category": "DALL-E", "caption": "A cube made of denim. A cube with the texture of denim.", "German": "Ein Würfel aus Denim. Ein Würfel mit der Textur von Denim."}
+{"Category": "DALL-E", "caption": "A sphere made of kitchen tile. A sphere with the texture of kitchen tile.", "German": "Eine Kugel aus Küchenfliesen. Eine Kugel mit der Textur von Küchenfliesen."}
+{"Category": "DALL-E", "caption": "A cube made of brick. A cube with the texture of brick.", "German": "Ein Würfel aus Ziegelstein. Ein Würfel mit der Textur von Ziegelstein."}
+{"Category": "DALL-E", "caption": "A collection of nail is sitting on a table.", "German": "Eine Sammlung von Nägeln liegt auf einem Tisch."}
+{"Category": "DALL-E", "caption": "A single clock is sitting on a table.", "German": "Ein einzelner Wecker steht auf einem Tisch."}
+{"Category": "DALL-E", "caption": "A couple of glasses are sitting on a table.", "German": "Ein paar Gläser stehen auf einem Tisch."}
+{"Category": "DALL-E", "caption": "An illustration of a large red elephant sitting on a small blue mouse.", "German": "Eine Illustration eines großen roten Elefanten, der auf einer kleinen blauen Maus sitzt."}
+{"Category": "DALL-E", "caption": "An illustration of a small green elephant standing behind a large red mouse.", "German": "Eine Darstellung eines kleinen grünen Elefanten, der hinter einer großen roten Maus steht."}
+{"Category": "DALL-E", "caption": "A small blue book sitting on a large red book.", "German": "Ein kleines blaues Buch sitzt auf einem großen roten Buch."}
+{"Category": "DALL-E", "caption": "A stack of 3 plates. A blue plate is on the top, sitting on a blue plate. The blue plate is in the middle, sitting on a green plate. The green plate is on the bottom.", "German": "Ein Stapel aus 3 Tellern. Ein blauer Teller liegt oben und auf einem blauen Teller. Der blaue Teller ist in der Mitte und liegt auf einem grünen Teller. Der grüne Teller liegt unten."}
+{"Category": "DALL-E", "caption": "A stack of 3 cubes. A red cube is on the top, sitting on a red cube. The red cube is in the middle, sitting on a green cube. The green cube is on the bottom.", "German": "Ein Stapel aus 3 Würfeln. Ein roter Würfel ist ganz oben und sitzt auf einem roten Würfel. Der rote Würfel befindet sich in der Mitte und sitzt auf einem grünen Würfel. Der grüne Würfel ist ganz unten."}
+{"Category": "DALL-E", "caption": "A stack of 3 books. A green book is on the top, sitting on a red book. The red book is in the middle, sitting on a blue book. The blue book is on the bottom.", "German": "Ein Stapel von drei Büchern. Ein grünes Buch liegt oben, auf einem roten Buch. Das rote Buch liegt in der Mitte, auf einem blauen Buch. Das blaue Buch liegt unten."}
+{"Category": "DALL-E", "caption": "An emoji of a baby panda wearing a red hat, green gloves, red shirt, and green pants.", "German": "Ein Emoji eines Panda-Babys mit einem roten Hut, grünen Handschuhen, rotem Hemd und grüner Hose."}
+{"Category": "DALL-E", "caption": "An emoji of a baby panda wearing a red hat, blue gloves, green shirt, and blue pants.", "German": "Ein Emoji von einem Baby-Panda mit einem roten Hut, blauen Handschuhen, einem grünen Hemd und blauen Hosen."}
+{"Category": "DALL-E", "caption": "A fisheye lens view of a turtle sitting in a forest.", "German": "Eine Fischaugenlinsenansicht einer Schildkröte, die im Wald sitzt."}
+{"Category": "DALL-E", "caption": "A side view of an owl sitting in a field.", "German": "Eine Seitenansicht einer Eule, die auf einem Feld sitzt."}
+{"Category": "DALL-E", "caption": "A cross-section view of a brain.", "German": "Ein Querschnitt des Gehirns."}
+{"Category": "Descriptions", "caption": "A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.", "German": "Ein Fahrzeug, das aus zwei Rädern besteht, die hintereinander in einem Rahmen gehalten werden, durch Pedale angetrieben und mit einem am Vorderrad befestigten Lenker gesteuert wird."}
+{"Category": "Descriptions", "caption": "A large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.", "German": "Ein großes Kraftfahrzeug, das Passagiere auf der Straße transportiert, typischerweise eines, das der Öffentlichkeit auf einer festen Route und gegen eine Gebühr dient."}
+{"Category": "Descriptions", "caption": "A small vessel propelled on water by oars, sails, or an engine.", "German": "Ein kleines Wasserfahrzeug, das durch Ruder, Segel oder einen Motor angetrieben wird."}
+{"Category": "Descriptions", "caption": "A connection point by which firefighters can tap into a water supply.", "German": "Ein Anschlusspunkt, an dem Feuerwehrleute Zugang zu einer Wasserversorgung erhalten können."}
+{"Category": "Descriptions", "caption": "A machine next to a parking space in a street, into which the driver puts money so as to be authorized to park the vehicle for a particular length of time.", "German": "Eine Maschine neben einem Parkplatz auf einer Straße, in die der Fahrer Geld einwirft, um berechtigt zu sein, das Fahrzeug für eine bestimmte Zeitdauer zu parken."}
+{"Category": "Descriptions", "caption": "A device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun.", "German": "Ein Gerät, das aus einem kreisförmigen Stoffdach auf einem faltbaren Metallrahmen besteht, der von einer zentralen Stange gestützt wird, wird als Schutz gegen Regen oder manchmal Sonne verwendet."}
+{"Category": "Descriptions", "caption": "A separate seat for one person, typically with a back and four legs.", "German": "Ein separater Sitz für eine Person, typischerweise mit einer Rückenlehne und vier Beinen."}
+{"Category": "Descriptions", "caption": "An appliance or compartment which is artificially kept cool and used to store food and drink.", "German": "Ein Gerät oder Fach, das künstlich gekühlt wird und zur Aufbewahrung von Lebensmitteln und Getränken dient."}
+{"Category": "Descriptions", "caption": "A mechanical or electrical device for measuring time.", "German": "Ein mechanisches oder elektrisches Gerät zur Zeitmessung."}
+{"Category": "Descriptions", "caption": "An instrument used for cutting cloth, paper, and other thin material, consisting of two blades laid one on top of the other and fastened in the middle so as to allow them to be opened and closed by a thumb and finger inserted through rings on the end of their handles.", "German": "Ein Instrument zum Schneiden von Stoff, Papier und anderen dünnen Materialien, das aus zwei übereinanderliegenden Klingen besteht, die in der Mitte befestigt sind, sodass sie durch eine Daumen- und Fingerbewegung, die durch Ringe am Ende ihrer Griffe eingeführt werden, geöffnet und geschlossen werden können."}
+{"Category": "Descriptions", "caption": "A large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail, used for riding, racing, and to carry and pull loads.", "German": "Ein großes pflanzenfressendes domestiziertes Säugetier mit festen Hufen und einer wallenden Mähne und einem Schwanz, das zum Reiten, Rennen sowie zum Tragen und Ziehen von Lasten verwendet wird."}
+{"Category": "Descriptions", "caption": "A long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe.", "German": "Eine lange, gebogene Frucht, die in Büscheln wächst und weiches, saftiges Fruchtfleisch sowie eine gelbe Schale hat, wenn sie reif ist."}
+{"Category": "Descriptions", "caption": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.", "German": "Ein kleines domestiziertes Raubtier mit weichem Fell, kurzem Schnauz und einziehbaren Krallen. Es wird häufig als Haustier gehalten oder zum Mäusefangen verwendet, und viele Rassen wurden gezüchtet."}
+{"Category": "Descriptions", "caption": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice.", "German": "Ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, einen ausgeprägten Geruchssinn, nicht einziehbare Krallen und eine bellende, heulende oder winselnde Stimme hat."}
+{"Category": "Descriptions", "caption": "An organ of soft nervous tissue contained in the skull of vertebrates, functioning as the coordinating center of sensation and intellectual and nervous activity.", "German": "Ein Organ aus weichem Nervengewebe, das im Schädel von Wirbeltieren enthalten ist, und als Koordinationszentrum für Empfindung sowie geistige und nervliche Aktivität dient."}
+{"Category": "Descriptions", "caption": "An American multinational technology company that focuses on artificial intelligence, search engine, online advertising, cloud computing, computer software, quantum computing, e-commerce, and consumer electronics.", "German": "Ein amerikanisches multinationales Technologieunternehmen, das sich auf künstliche Intelligenz, Suchmaschinen, Online-Werbung, Cloud-Computing, Computersoftware, Quantencomputing, E-Commerce und Unterhaltungselektronik konzentriert."}
+{"Category": "Descriptions", "caption": "A large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings, which are struck by hammers when the keys are depressed. The strings' vibration is stopped by dampers when the keys are released and can be regulated for length and volume by two or three pedals.", "German": "Ein großes Tasteninstrument mit einem Holzkorpus, der einen Resonanzboden und Metallsaiten umschließt, die durch Hämmer angeschlagen werden, wenn die Tasten gedrückt werden. Die Vibration der Saiten wird durch Dämpfer gestoppt, wenn die Tasten losgelassen werden und kann in Länge und Lautstärke durch zwei oder drei Pedale geregelt werden."}
+{"Category": "Descriptions", "caption": "A type of digital currency in which a record of transactions is maintained and new units of currency are generated by the computational solution of mathematical problems, and which operates independently of a central bank.", "German": "Eine Art von digitaler Währung, bei der ein Transaktionsverlauf geführt wird und neue Währungseinheiten durch die rechnerische Lösung mathematischer Probleme erzeugt werden, und die unabhängig von einer Zentralbank funktioniert."}
+{"Category": "Descriptions", "caption": "A large thick-skinned semiaquatic African mammal, with massive jaws and large tusks.", "German": "Ein großes dickhäutiges, halbaquatisches afrikanisches Säugetier mit massiven Kiefern und großen Stoßzähnen."}
+{"Category": "Descriptions", "caption": "A machine resembling a human being and able to replicate certain human movements and functions automatically.", "German": "Eine Maschine, die einem menschlichen Wesen ähnelt und bestimmte menschliche Bewegungen und Funktionen automatisch nachahmen kann."}
+{"Category": "Gary Marcus et al. ", "caption": "Paying for a quarter-sized pizza with a pizza-sized quarter.", "German": "Mit einer pizzagroßen Vierteldollarmünze für eine Viertelpizza bezahlen."}
+{"Category": "Gary Marcus et al. ", "caption": "An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with no umbrellas.", "German": "Ein Ölbild von einem Paar in eleganter Abendkleidung, das auf dem Heimweg von einem heftigen Regenguss ohne Regenschirme überrascht wird."}
+{"Category": "Gary Marcus et al. ", "caption": "A grocery store refrigerator has pint cartons of milk on the top shelf, quart cartons on the middle shelf, and gallon plastic jugs on the bottom shelf.", "German": "Ein Kühlschrank im Lebensmittelgeschäft hat Halbliterkartons Milch im obersten Regal, Literkartons im mittleren Regal und Gallonen-Plastikkanister im untersten Regal."}
+{"Category": "Gary Marcus et al. ", "caption": "In late afternoon in January in New England, a man stands in the shadow of a maple tree.", "German": "An einem späten Nachmittag im Januar in Neuengland steht ein Mann im Schatten eines Ahornbaums."}
+{"Category": "Gary Marcus et al. ", "caption": "An elephant is behind a tree. You can see the trunk on one side and the back legs on the other.", "German": "Ein Elefant steht hinter einem Baum. Du kannst den Rüssel auf der einen Seite und die Hinterbeine auf der anderen sehen."}
+{"Category": "Gary Marcus et al. ", "caption": "A tomato has been put on top of a pumpkin on a kitchen stool. There is a fork sticking into the pumpkin. The scene is viewed from above.", "German": "Eine Tomate wurde auf einen Kürbis auf einem Küchenhocker gelegt. In den Kürbis ist eine Gabel gesteckt. Die Szene wird von oben betrachtet."}
+{"Category": "Gary Marcus et al. ", "caption": "A pear cut into seven pieces arranged in a ring.", "German": "Eine Birne, die in sieben Stücke geschnitten und in einem Ring angeordnet ist."}
+{"Category": "Gary Marcus et al. ", "caption": "A donkey and an octopus are playing a game. The donkey is holding a rope on one end, the octopus is holding onto the other. The donkey holds the rope in its mouth. A cat is jumping over the rope.", "German": "Ein Esel und ein Oktopus spielen ein Spiel. Der Esel hält ein Seil an einem Ende, der Oktopus hält das andere fest. Der Esel hält das Seil in seinem Maul. Eine Katze springt über das Seil."}
+{"Category": "Gary Marcus et al. ", "caption": "Supreme Court Justices play a baseball game with the FBI. The FBI is at bat, the justices are on the field.", "German": "Die Richter des Obersten Gerichtshofs spielen ein Baseballspiel mit dem FBI. Das FBI ist am Schlag, die Richter sind auf dem Spielfeld."}
+{"Category": "Gary Marcus et al. ", "caption": "Abraham Lincoln touches his toes while George Washington does chin-ups. Lincoln is barefoot. Washington is wearing boots.", "German": "Abraham Lincoln berührt seine Zehen, während George Washington Klimmzüge macht. Lincoln ist barfuß. Washington trägt Stiefel."}
+{"Category": "Misspellings", "caption": "Tcennis rpacket.", "German": "Tennisschläger."}
+{"Category": "Misspellings", "caption": "Bzaseball galove.", "German": "Baseballhandschuh."}
+{"Category": "Misspellings", "caption": "Rbefraigerator.", "German": "Kühlschrank."}
+{"Category": "Misspellings", "caption": "Dininrg tablez.", "German": "Esstische."}
+{"Category": "Misspellings", "caption": "Pafrking metr.", "German": "Parken verboten."}
+{"Category": "Misspellings", "caption": "A smafml vessef epropoeilled on watvewr by ors, sauls, or han engie.", "German": "Ein kleines Schiff, das auf dem Wasser durch Ruder, Segel oder einen Motor angetrieben wird."}
+{"Category": "Misspellings", "caption": "A sjmall domesticated carnivorious mammnal with sof fuh,y a sthort sout, and retracwtablbe flaws. It iw widexly kept as a pet or for catchitng mic, ad many breeds zhlyde beefn develvoked.", "German": "Ein kleines domestiziertes fleischfressendes Säugetier mit weichem Fell, einer kurzen Schnauze und einziehbaren Krallen. Es wird häufig als Haustier gehalten oder zum Fangen von Mäusen verwendet, und viele Rassen wurden gezüchtet."}
+{"Category": "Misspellings", "caption": "An instqrumemnt used for cutting cloth, paper, axdz othr thdin mteroial, consamistng of two blades lad one on tvopb of the other and fhastned in tle mixdqdjle so as to bllow them txo be pened and closed by thumb and fitngesr inserted tgrough rings on kthe end oc thei vatndlzes.", "German": "Ein Instrument zum Schneiden von Stoff, Papier und anderen dünnen Materialien, bestehend aus zwei Klingen, die übereinander liegen und in der Mitte befestigt sind, so dass sie durch den Daumen und die Finger geöffnet und geschlossen werden können, die durch Ringe am Ende der Griffe eingeführt werden."}
+{"Category": "Misspellings", "caption": "A domesticated carnivvorous mzammal that typicbally hfaas a lons sfnout, an acxujte sense off osmell, noneetractaaln crlaws, anid xbarkring,y howlingu, or whining rvoiche.", "German": "Ein domestiziertes Raubtier, das typischerweise eine lange Schnauze, einen ausgeprägten Geruchssinn, nicht einziehbare Krallen und eine bellende, heulende oder jaulende Stimme hat."}
+{"Category": "Misspellings", "caption": "A ldarge keybord msical instroument lwith a woden case enmclosig a qsouvnkboajrd and mfgtal strivgf, which are strucrk b hammrs when the nels are depresdsmed.f lhe strsingsj' vibration ie stopped by damperds when the keys re released and can bce regulavewdd for lengh and vnolume y two or three pedalvs.", "German": "Ein großes Tasteninstrument mit einem Holzkasten, der einen Resonanzboden und Metallsaiten umschließt, die von Hämmern angeschlagen werden, wenn die Tasten gedrückt werden. Die Schwingung der Saiten wird durch Dämpfer gestoppt, wenn die Tasten losgelassen werden, und kann durch zwei oder drei Pedale in Länge und Lautstärke reguliert werden."}
+{"Category": "Positional", "caption": "A train on top of a surfboard.", "German": "Ein Zug auf einem Surfbrett."}
+{"Category": "Positional", "caption": "A wine glass on top of a dog.", "German": "Ein Weinglas auf einem Hund."}
+{"Category": "Positional", "caption": "A bicycle on top of a boat.", "German": "Ein Fahrrad auf einem Boot."}
+{"Category": "Positional", "caption": "An umbrella on top of a spoon.", "German": "Ein Regenschirm auf einem Löffel."}
+{"Category": "Positional", "caption": "A laptop on top of a teddy bear.", "German": "Ein Laptop auf einem Teddybär."}
+{"Category": "Positional", "caption": "A giraffe underneath a microwave.", "German": "Eine Giraffe unter einer Mikrowelle."}
+{"Category": "Positional", "caption": "A donut underneath a toilet.", "German": "Ein Donut unter einer Toilette."}
+{"Category": "Positional", "caption": "A hair drier underneath a sheep.", "German": "Ein Haartrockner unter einem Schaf."}
+{"Category": "Positional", "caption": "A tennis racket underneath a traffic light.", "German": "Ein Tennisschläger unter einer Ampel."}
+{"Category": "Positional", "caption": "A zebra underneath a broccoli.", "German": "Ein Zebra unter einem Brokkoli."}
+{"Category": "Positional", "caption": "A banana on the left of an apple.", "German": "Eine Banane links von einem Apfel."}
+{"Category": "Positional", "caption": "A couch on the left of a chair.", "German": "Ein Sofa links von einem Stuhl."}
+{"Category": "Positional", "caption": "A car on the left of a bus.", "German": "Ein Auto links von einem Bus."}
+{"Category": "Positional", "caption": "A cat on the left of a dog.", "German": "Eine Katze links von einem Hund."}
+{"Category": "Positional", "caption": "A carrot on the left of a broccoli.", "German": "Eine Karotte links von einem Brokkoli."}
+{"Category": "Positional", "caption": "A pizza on the right of a suitcase.", "German": "Eine Pizza rechts von einem Koffer."}
+{"Category": "Positional", "caption": "A cat on the right of a tennis racket.", "German": "Eine Katze rechts von einem Tennisschläger."}
+{"Category": "Positional", "caption": "A stop sign on the right of a refrigerator.", "German": "Ein Stoppschild rechts von einem Kühlschrank."}
+{"Category": "Positional", "caption": "A sheep to the right of a wine glass.", "German": "Ein Schaf rechts von einem Weinglas."}
+{"Category": "Positional", "caption": "A zebra to the right of a fire hydrant.", "German": "Ein Zebra rechts von einem Hydranten."}
+{"Category": "Rare Words", "caption": "Acersecomicke.", "German": "Acersecomicke."}
+{"Category": "Rare Words", "caption": "Jentacular.", "German": "frühstücklich."}
+{"Category": "Rare Words", "caption": "Matutinal.", "German": "Morgendlich."}
+{"Category": "Rare Words", "caption": "Peristeronic.", "German": "Peristeronisch."}
+{"Category": "Rare Words", "caption": "Artophagous.", "German": "Artophag."}
+{"Category": "Rare Words", "caption": "Backlotter.", "German": "Kulissenschieber."}
+{"Category": "Rare Words", "caption": "Octothorpe.", "German": "Oktothorpe."}
+{"Category": "Reddit", "caption": "A church with stained glass windows depicting a hamburger and french fries.", "German": "Eine Kirche mit Buntglasfenstern, die einen Hamburger und Pommes Frites darstellen."}
+{"Category": "Reddit", "caption": "Painting of the orange cat Otto von Garfield, Count of Bismarck-Schönhausen, Duke of Lauenburg, Minister-President of Prussia. Depicted wearing a Prussian Pickelhaube and eating his favorite meal - lasagna.", "German": "Gemälde der orangenen Katze Otto von Garfield, Graf von Bismarck-Schönhausen, Herzog von Lauenburg, Ministerpräsident von Preußen. Dargestellt mit einer preußischen Pickelhaube und beim Essen seiner Lieblingsspeise – Lasagne."}
+{"Category": "Reddit", "caption": "A baby fennec sneezing onto a strawberry, detailed, macro, studio light, droplets, backlit ears.", "German": "Ein Fennek-Baby, das auf eine Erdbeere niest, detailliert, Makro, Studiobeleuchtung, Tropfen, hinterleuchtete Ohren."}
+{"Category": "Reddit", "caption": "A photo of a confused grizzly bear in calculus class.", "German": "Ein Foto von einem verwirrten Grizzlybären im Mathematikunterricht."}
+{"Category": "Reddit", "caption": "An ancient Egyptian painting depicting an argument over whose turn it is to take out the trash.", "German": "Ein altägyptisches Gemälde, das einen Streit darüber darstellt, wer an der Reihe ist, den Müll hinauszubringen."}
+{"Category": "Reddit", "caption": "A fluffy baby sloth with a knitted hat trying to figure out a laptop, close up, highly detailed, studio lighting, screen reflecting in its eyes.", "German": "Ein flauschiges Babyfaultier mit einer gestrickten Mütze, das versucht, einen Laptop zu verstehen, Nahaufnahme, sehr detailliert, Studio-Beleuchtung, Bildschirm spiegelt sich in seinen Augen."}
+{"Category": "Reddit", "caption": "A tiger in a lab coat with a 1980s Miami vibe, turning a well oiled science content machine, digital art.", "German": "Ein Tiger im Laborkittel mit einem 1980er Jahre Miami-Flair, der eine gut geölte Wissenschaftsinhaltsmaschine antreibt, digitale Kunst."}
+{"Category": "Reddit", "caption": "A 1960s yearbook photo with animals dressed as humans.", "German": "Ein Jahrbuchfoto aus den 1960er Jahren mit Tieren, die als Menschen verkleidet sind."}
+{"Category": "Reddit", "caption": "Lego Arnold Schwarzenegger.", "German": "Lego Arnold Schwarzenegger."}
+{"Category": "Reddit", "caption": "A yellow and black bus cruising through the rainforest.", "German": "Ein gelb-schwarzer Bus fährt durch den Regenwald."}
+{"Category": "Reddit", "caption": "A medieval painting of the wifi not working.", "German": "Eine mittelalterliche Darstellung des nicht funktionierenden WLANs."}
+{"Category": "Reddit", "caption": "An IT-guy trying to fix hardware of a PC tower is being tangled by the PC cables like Laokoon. Marble, copy after Hellenistic original from ca. 200 BC. Found in the Baths of Trajan, 1506.", "German": "Ein IT-Techniker, der versucht die Hardware eines PC-Towers zu reparieren, wird von den PC-Kabeln wie Laokoon verheddert. Marmor, Kopie nach einem hellenistischen Original aus ca. 200 v. Chr. Gefunden in den Thermen des Trajan, 1506."}
+{"Category": "Reddit", "caption": "35mm macro shot a kitten licking a baby duck, studio lighting.", "German": "35mm-Makroaufnahme eines Kätzchens, das ein Entenküken ableckt, Studio-Beleuchtung."}
+{"Category": "Reddit", "caption": "McDonalds Church.", "German": "McDonald's Kirche."}
+{"Category": "Reddit", "caption": "Photo of an athlete cat explaining it's latest scandal at a press conference to journalists.", "German": "Foto einer Athletenkatze, die auf einer Pressekonferenz den Journalisten ihren neuesten Skandal erklärt."}
+{"Category": "Reddit", "caption": "Greek statue of a man tripping over a cat.", "German": "Griechische Statue eines Mannes, der über eine Katze stolpert."}
+{"Category": "Reddit", "caption": "An old photograph of a 1920s airship shaped like a pig, floating over a wheat field.", "German": "Ein altes Foto eines Luftschiffs aus den 1920er Jahren, das wie ein Schwein geformt ist und über einem Weizenfeld schwebt."}
+{"Category": "Reddit", "caption": "Photo of a cat singing in a barbershop quartet.", "German": "Foto einer Katze, die in einem Barbershop-Quartett singt."}
+{"Category": "Reddit", "caption": "A painting by Grant Wood of an astronaut couple, american gothic style.", "German": "Ein Gemälde von Grant Wood eines Astronautenpaars im amerikanischen Gotik-Stil."}
+{"Category": "Reddit", "caption": "An oil painting portrait of the regal Burger King posing with a Whopper.", "German": "Ein Ölporträt des majestätischen Burger Kings, der mit einem Whopper posiert."}
+{"Category": "Reddit", "caption": "A keyboard made of water, the water is made of light, the light is turned off.", "German": "Eine Tastatur aus Wasser, das Wasser aus Licht, das Licht ist ausgeschaltet."}
+{"Category": "Reddit", "caption": "Painting of Mona Lisa but the view is from behind of Mona Lisa.", "German": "Gemälde der Mona Lisa, aber die Ansicht ist von hinten."}
+{"Category": "Reddit", "caption": "Hyper-realistic photo of an abandoned industrial site during a storm.", "German": "Hyperrealistisches Foto einer verlassenen Industrieanlage während eines Sturms."}
+{"Category": "Reddit", "caption": "A screenshot of an iOS app for ordering different types of milk.", "German": "Ein Screenshot einer iOS-App zum Bestellen verschiedener Milchsorten."}
+{"Category": "Reddit", "caption": "A real life photography of super mario, 8k Ultra HD.", "German": "Eine realistische Fotografie von Super Mario, 8K Ultra HD."}
+{"Category": "Reddit", "caption": "Colouring page of large cats climbing the eifel tower in a cyberpunk future.", "German": "Malvorlage von großen Katzen, die den Eiffelturm in einer Cyberpunk-Zukunft erklimmen."}
+{"Category": "Reddit", "caption": "Photo of a mega Lego space station inside a kid's bedroom.", "German": "Foto einer riesigen Lego-Raumstation in einem Kinderzimmer."}
+{"Category": "Reddit", "caption": "A spider with a moustache bidding an equally gentlemanly grasshopper a good day during his walk to work.", "German": "Eine Spinne mit einem Schnurrbart wünscht einem ebenso gentlemanhaften Grashüpfer einen guten Tag auf seinem Weg zur Arbeit."}
+{"Category": "Reddit", "caption": "A photocopy of a photograph of a painting of a sculpture of a giraffe.", "German": "Eine Fotokopie eines Fotos eines Gemäldes einer Skulptur einer Giraffe."}
+{"Category": "Reddit", "caption": "A bridge connecting Europe and North America on the Atlantic Ocean, bird's eye view.", "German": "Eine Brücke, die Europa und Nordamerika über den Atlantischen Ozean verbindet, aus der Vogelperspektive."}
+{"Category": "Reddit", "caption": "A maglev train going vertically downward in high speed, New York Times photojournalism.", "German": "Ein Magnetschwebebahnzug bewegt sich mit hoher Geschwindigkeit senkrecht nach unten, Fotojournalismus der New York Times."}
+{"Category": "Reddit", "caption": "A magnifying glass over a page of a 1950s batman comic.", "German": "Eine Lupe über einer Seite eines Batman-Comics aus den 1950er Jahren."}
+{"Category": "Reddit", "caption": "A car playing soccer, digital art.", "German": "Ein Auto, das Fußball spielt, digitale Kunst."}
+{"Category": "Reddit", "caption": "Darth Vader playing with raccoon in Mars during sunset.", "German": "Darth Vader spielt mit einem Waschbären auf dem Mars bei Sonnenuntergang."}
+{"Category": "Reddit", "caption": "A 1960s poster warning against climate change.", "German": "Ein Poster aus den 1960er Jahren, das vor dem Klimawandel warnt."}
+{"Category": "Reddit", "caption": "Illustration of a mouse using a mushroom as an umbrella.", "German": "Illustration einer Maus, die einen Pilz als Regenschirm benutzt."}
+{"Category": "Reddit", "caption": "A realistic photo of a Pomeranian dressed up like a 1980s professional wrestler with neon green and neon orange face paint and bright green wrestling tights with bright orange boots.", "German": "Ein realistisches Foto eines Pomeranians, der wie ein professioneller Wrestler aus den 1980er Jahren verkleidet ist, mit neongrüner und neonorangener Gesichtsbemalung sowie hellgrünen Wrestling-Tights und knallorangenen Stiefeln."}
+{"Category": "Reddit", "caption": "A pyramid made of falafel with a partial solar eclipse in the background.", "German": "Eine Pyramide aus Falafel mit einer partiellen Sonnenfinsternis im Hintergrund."}
+{"Category": "Text", "caption": "A storefront with 'Hello World' written on it.", "German": "Ein Ladenfront mit der Aufschrift 'Hello World'."}
+{"Category": "Text", "caption": "A storefront with 'Diffusion' written on it.", "German": "Ein Laden mit 'Diffusion' darauf geschrieben."}
+{"Category": "Text", "caption": "A storefront with 'Text to Image' written on it.", "German": "Ein Ladenfront mit der Aufschrift „Text zu Bild“."}
+{"Category": "Text", "caption": "A storefront with 'NeurIPS' written on it.", "German": "Ein Ladenlokal mit der Aufschrift „NeurIPS“."}
+{"Category": "Text", "caption": "A storefront with 'Deep Learning' written on it.", "German": "Ein Laden mit der Aufschrift 'Deep Learning'."}
+{"Category": "Text", "caption": "A storefront with 'Google Brain Toronto' written on it.", "German": "Ein Geschäft mit der Aufschrift 'Google Brain Toronto'."}
+{"Category": "Text", "caption": "A storefront with 'Google Research Pizza Cafe' written on it.", "German": "Ein Schaufenster mit der Aufschrift 'Google Research Pizza Café'."}
+{"Category": "Text", "caption": "A sign that says 'Hello World'.", "German": "Ein Schild, auf dem 'Hallo Welt' steht."}
+{"Category": "Text", "caption": "A sign that says 'Diffusion'.", "German": "Ein Schild mit der Aufschrift 'Diffusion'."}
+{"Category": "Text", "caption": "A sign that says 'Text to Image'.", "German": "Ein Schild, auf dem 'Text zu Bild' steht."}
+{"Category": "Text", "caption": "A sign that says 'NeurIPS'.", "German": "Ein Schild, auf dem 'NeurIPS' steht."}
+{"Category": "Text", "caption": "A sign that says 'Deep Learning'.", "German": "Ein Schild, auf dem 'Deep Learning' steht."}
+{"Category": "Text", "caption": "A sign that says 'Google Brain Toronto'.", "German": "Ein Schild mit der Aufschrift 'Google Brain Toronto'."}
+{"Category": "Text", "caption": "A sign that says 'Google Research Pizza Cafe'.", "German": "Ein Schild mit der Aufschrift 'Google Research Pizza Café'."}
+{"Category": "Text", "caption": "New York Skyline with 'Hello World' written with fireworks on the sky.", "German": "New Yorker Skyline mit 'Hello World' in den Himmel geschriebene Feuerwerkskörper."}
+{"Category": "Text", "caption": "New York Skyline with 'Diffusion' written with fireworks on the sky.", "German": "New Yorker Skyline mit 'Diffusion' in Feuerwerk am Himmel geschrieben."}
+{"Category": "Text", "caption": "New York Skyline with 'Text to Image' written with fireworks on the sky.", "German": "New Yorker Skyline mit \"Text to Image\" in Feuerwerk am Himmel geschrieben."}
+{"Category": "Text", "caption": "New York Skyline with 'NeurIPS' written with fireworks on the sky.", "German": "New Yorker Skyline mit 'NeurIPS' als Feuerwerk am Himmel."}
+{"Category": "Text", "caption": "New York Skyline with 'Deep Learning' written with fireworks on the sky.", "German": "New Yorker Skyline mit 'Deep Learning' in Feuerwerk am Himmel geschrieben."}
+{"Category": "Text", "caption": "New York Skyline with 'Google Brain Toronto' written with fireworks on the sky.", "German": "New Yorker Skyline mit 'Google Brain Toronto' in Feuerwerk am Himmel geschrieben."}
+{"Category": "Text", "caption": "New York Skyline with 'Google Research Pizza Cafe' written with fireworks on the sky.", "German": "New Yorker Skyline mit \"Google Research Pizza Cafe\" in Feuerwerkschriften am Himmel."}

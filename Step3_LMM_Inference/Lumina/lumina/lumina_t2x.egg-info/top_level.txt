@@ -1,0 +1,10 @@
+Flag-DiT-ImageNet
+Next-DiT-ImageNet
+Next-DiT-MoE
+build
+lumina_audio
+lumina_music
+lumina_next_compositional_generation
+lumina_next_t2i
+lumina_next_t2i_mini
+lumina_t2i

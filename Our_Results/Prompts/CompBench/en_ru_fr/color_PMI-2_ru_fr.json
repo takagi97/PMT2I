@@ -1,0 +1,300 @@
+{"caption": "English: a green bench and a blue bowl\nRussian: зеленая скамейка и синяя миска\nFrench: un banc vert et un bol bleu", "id": 1}
+{"caption": "English: a blue bench and a green bowl\nRussian: синяя скамейка и зелёная чаша\nFrench: un banc bleu et un bol vert", "id": 2}
+{"caption": "English: a green bench and a blue cake\nRussian: зеленая скамейка и синий торт\nFrench: un banc vert et un gâteau bleu", "id": 3}
+{"caption": "English: a blue bench and a green cake\nRussian: синяя скамейка и зелёный торт\nFrench: un banc bleu et un gâteau vert", "id": 4}
+{"caption": "English: a brown horse and a blue vase\nRussian: коричневая лошадь и синяя ваза\nFrench: un cheval brun et un vase bleu", "id": 5}
+{"caption": "English: a blue horse and a brown vase\nRussian: синяя лошадь и коричневая ваза\nFrench: un cheval bleu et un vase marron", "id": 6}
+{"caption": "English: a blue backpack and a brown cow\nRussian: синий рюкзак и коричневая корова\nFrench: un sac à dos bleu et une vache brune", "id": 7}
+{"caption": "English: a brown backpack and a blue cow\nRussian: коричневый рюкзак и синяя корова\nFrench: un sac à dos marron et une vache bleue", "id": 8}
+{"caption": "English: a blue backpack and a red book\nRussian: синий рюкзак и красная книга\nFrench: un sac à dos bleu et un livre rouge", "id": 9}
+{"caption": "English: a red backpack and a blue book\nRussian: красный рюкзак и синяя книга\nFrench: un sac à dos rouge et un livre bleu", "id": 10}
+{"caption": "English: a brown bear and a red book\nRussian: бурый медведь и красная книга\nFrench: un ours brun et un livre rouge", "id": 11}
+{"caption": "English: a red bear and a brown book\nRussian: красный медведь и коричневая книга\nFrench: un ours rouge et un livre marron", "id": 12}
+{"caption": "English: a red orange and a brown sheep\nRussian: красный апельсин и коричневая овца\nFrench: une orange rouge et un mouton brun", "id": 13}
+{"caption": "English: a brown orange and a red sheep\nRussian: коричневый апельсин и красная овца\nFrench: une orange brune et un mouton rouge", "id": 14}
+{"caption": "English: a green banana and a brown dog\nRussian: зелёный банан и коричневая собака\nFrench: une banane verte et un chien brun", "id": 15}
+{"caption": "English: a brown banana and a green dog\nRussian: коричневый банан и зелёная собака\nFrench: une banane brune et un chien vert", "id": 16}
+{"caption": "English: a green banana and a brown horse\nRussian: зелёный банан и коричневая лошадь\nFrench: une banane verte et un cheval brun", "id": 17}
+{"caption": "English: a brown banana and a green horse\nRussian: коричневый банан и зеленая лошадь\nFrench: une banane brune et un cheval vert", "id": 18}
+{"caption": "English: a blue cake and a red suitcase\nRussian: синий торт и красный чемодан\nFrench: un gâteau bleu et une valise rouge", "id": 19}
+{"caption": "English: a red cake and a blue suitcase\nRussian: красный торт и синий чемодан\nFrench: un gâteau rouge et une valise bleue", "id": 20}
+{"caption": "English: a brown elephant and a red suitcase\nRussian: коричневый слон и красный чемодан\nFrench: un éléphant brun et une valise rouge", "id": 21}
+{"caption": "English: a red elephant and a brown suitcase\nRussian: красный слон и коричневый чемодан\nFrench: un éléphant rouge et une valise marron", "id": 22}
+{"caption": "English: a green apple and a brown horse\nRussian: зелёное яблоко и коричневая лошадь\nFrench: une pomme verte et un cheval brun", "id": 23}
+{"caption": "English: a brown apple and a green horse\nRussian: коричневое яблоко и зелёная лошадь\nFrench: une pomme brune et un cheval vert", "id": 24}
+{"caption": "English: a green banana and a blue vase\nRussian: зеленый банан и синяя ваза\nFrench: une banane verte et un vase bleu", "id": 25}
+{"caption": "English: a blue banana and a green vase\nRussian: синяя банан и зеленая ваза\nFrench: une banane bleue et un vase vert", "id": 26}
+{"caption": "English: a blue backpack and a brown bear\nRussian: синий рюкзак и бурый медведь\nFrench: un sac à dos bleu et un ours brun", "id": 27}
+{"caption": "English: a brown backpack and a blue bear\nRussian: коричневый рюкзак и синий медведь\nFrench: un sac à dos marron et un ours bleu", "id": 28}
+{"caption": "English: a green apple and a blue vase\nRussian: зелёное яблоко и синяя ваза\nFrench: une pomme verte et un vase bleu", "id": 29}
+{"caption": "English: a blue apple and a green vase\nRussian: синее яблоко и зелёная ваза\nFrench: une pomme bleue et un vase vert", "id": 30}
+{"caption": "English: a green banana and a red suitcase\nRussian: зеленый банан и красный чемодан\nFrench: une banane verte et une valise rouge", "id": 31}
+{"caption": "English: a red banana and a green suitcase\nRussian: красный банан и зелёный чемодан\nFrench: une banane rouge et une valise verte", "id": 32}
+{"caption": "English: a blue bowl and a brown elephant\nRussian: синяя миска и коричневый слон\nFrench: un bol bleu et un éléphant marron", "id": 33}
+{"caption": "English: a brown bowl and a blue elephant\nRussian: коричневая миска и синий слон\nFrench: un bol marron et un éléphant bleu", "id": 34}
+{"caption": "English: a blue backpack and a red orange\nRussian: синий рюкзак и красный апельсин\nFrench: un sac à dos bleu et une orange rouge", "id": 35}
+{"caption": "English: a red backpack and a blue orange\nRussian: красный рюкзак и синий апельсин\nFrench: un sac à dos rouge et une orange bleue", "id": 36}
+{"caption": "English: a blue backpack and a red chair\nRussian: синий рюкзак и красный стул\nFrench: un sac à dos bleu et une chaise rouge", "id": 37}
+{"caption": "English: a red backpack and a blue chair\nRussian: красный рюкзак и синее кресло\nFrench: un sac à dos rouge et une chaise bleue", "id": 38}
+{"caption": "English: a blue cup and a brown horse\nRussian: синяя чашка и коричневая лошадь\nFrench: une tasse bleue et un cheval brun", "id": 39}
+{"caption": "English: a brown cup and a blue horse\nRussian: коричневая чашка и синяя лошадь\nFrench: une tasse brune et un cheval bleu", "id": 40}
+{"caption": "English: a brown sheep and a blue vase\nRussian: коричневая овца и синяя ваза\nFrench: un mouton brun et un vase bleu", "id": 41}
+{"caption": "English: a blue sheep and a brown vase\nRussian: синяя овца и коричневая ваза\nFrench: un mouton bleu et un vase marron", "id": 42}
+{"caption": "English: a brown cat and a gold clock\nRussian: коричневая кошка и золотые часы\nFrench: un chat brun et une horloge dorée", "id": 43}
+{"caption": "English: a gold cat and a brown clock\nRussian: золотая кошка и коричневые часы\nFrench: un chat en or et une horloge marron", "id": 44}
+{"caption": "English: a blue backpack and a green banana\nRussian: синий рюкзак и зелёный банан\nFrench: un sac à dos bleu et une banane verte", "id": 45}
+{"caption": "English: a green backpack and a blue banana\nRussian: зеленый рюкзак и голубой банан\nFrench: un sac à dos vert et une banane bleue", "id": 46}
+{"caption": "English: a brown horse and a red orange\nRussian: коричневая лошадь и красный апельсин\nFrench: un cheval brun et une orange rouge", "id": 47}
+{"caption": "English: a red horse and a brown orange\nRussian: красная лошадь и коричневый апельсин\nFrench: un cheval rouge et une orange marron", "id": 48}
+{"caption": "English: a red chair and a brown elephant\nRussian: красный стул и коричневый слон\nFrench: une chaise rouge et un éléphant marron", "id": 49}
+{"caption": "English: a brown chair and a red elephant\nRussian: коричневый стул и красный слон\nFrench: une chaise marron et un éléphant rouge", "id": 50}
+{"caption": "English: a green apple and a blue backpack\nRussian: зелёное яблоко и синий рюкзак\nFrench: une pomme verte et un sac à dos bleu", "id": 51}
+{"caption": "English: a blue apple and a green backpack\nRussian: синее яблоко и зеленый рюкзак\nFrench: une pomme bleue et un sac à dos vert", "id": 52}
+{"caption": "English: a blue backpack and a gold clock\nRussian: синий рюкзак и золотые часы\nFrench: un sac à dos bleu et une horloge en or", "id": 53}
+{"caption": "English: a gold backpack and a blue clock\nRussian: золотой рюкзак и синие часы\nFrench: un sac à dos doré et une horloge bleue", "id": 54}
+{"caption": "English: a brown dog and a red orange\nRussian: коричневая собака и красный апельсин\nFrench: un chien brun et une orange rouge", "id": 55}
+{"caption": "English: a red dog and a brown orange\nRussian: красная собака и коричневый апельсин\nFrench: un chien rouge et une orange brune", "id": 56}
+{"caption": "English: a blue backpack and a brown sheep\nRussian: синий рюкзак и коричневая овца\nFrench: un sac à dos bleu et un mouton brun", "id": 57}
+{"caption": "English: a brown backpack and a blue sheep\nRussian: коричневый рюкзак и синяя овца\nFrench: un sac à dos marron et un mouton bleu", "id": 58}
+{"caption": "English: a blue backpack and a brown giraffe\nRussian: синий рюкзак и коричневый жираф\nFrench: un sac à dos bleu et une girafe brune", "id": 59}
+{"caption": "English: a brown backpack and a blue giraffe\nRussian: коричневый рюкзак и синяя жирафа\nFrench: un sac à dos marron et une girafe bleue", "id": 60}
+{"caption": "English: a red book and a blue cake\nRussian: красная книга и синий торт\nFrench: un livre rouge et un gâteau bleu", "id": 61}
+{"caption": "English: a blue book and a red cake\nRussian: синяя книга и красный торт\nFrench: un livre bleu et un gâteau rouge", "id": 62}
+{"caption": "English: a red suitcase and a blue vase\nRussian: красный чемодан и синяя ваза\nFrench: une valise rouge et un vase bleu", "id": 63}
+{"caption": "English: a blue suitcase and a red vase\nRussian: синий чемодан и красная ваза\nFrench: une valise bleue et un vase rouge", "id": 64}
+{"caption": "English: a blue cup and a brown sheep\nRussian: синяя чашка и коричневая овца\nFrench: une tasse bleue et un mouton brun", "id": 65}
+{"caption": "English: a brown cup and a blue sheep\nRussian: коричневая чашка и синяя овца\nFrench: une tasse marron et un mouton bleu", "id": 66}
+{"caption": "English: a brown bear and a red train\nRussian: бурый медведь и красный поезд\nFrench: un ours brun et un train rouge", "id": 67}
+{"caption": "English: a blue cup and a red orange\nRussian: синяя чашка и красный апельсин\nFrench: une tasse bleue et une orange rouge", "id": 68}
+{"caption": "English: a red cup and a blue orange\nRussian: красная чашка и синий апельсин\nFrench: une tasse rouge et une orange bleue", "id": 69}
+{"caption": "English: a green apple and a red suitcase\nRussian: зелёное яблоко и красный чемодан\nFrench: une pomme verte et une valise rouge", "id": 70}
+{"caption": "English: a red apple and a green suitcase\nRussian: красное яблоко и зелёный чемодан\nFrench: une pomme rouge et une valise verte", "id": 71}
+{"caption": "English: a blue bowl and a red train\nRussian: синяя миска и красный поезд\nFrench: un bol bleu et un train rouge", "id": 72}
+{"caption": "English: a red bowl and a blue train\nRussian: красная миска и синий поезд\nFrench: un bol rouge et un train bleu", "id": 73}
+{"caption": "English: a green bench and a red orange\nRussian: зеленая скамейка и красный апельсин\nFrench: un banc vert et une orange rouge", "id": 74}
+{"caption": "English: a red bench and a green orange\nRussian: красная скамейка и зелёный апельсин\nFrench: un banc rouge et une orange verte", "id": 75}
+{"caption": "English: a brown cat and a red orange\nRussian: коричневый кот и красный апельсин\nFrench: un chat brun et une orange rouge", "id": 76}
+{"caption": "English: a red cat and a brown orange\nRussian: рыжий кот и коричневый апельсин\nFrench: un chat roux et une orange brune", "id": 77}
+{"caption": "English: a green apple and a red train\nRussian: зеленое яблоко и красный поезд\nFrench: une pomme verte et un train rouge", "id": 78}
+{"caption": "English: a red apple and a green train\nRussian: красное яблоко и зелёный поезд\nFrench: une pomme rouge et un train vert", "id": 79}
+{"caption": "English: a brown giraffe and a red train\nRussian: коричневый жираф и красный поезд\nFrench: une girafe brune et un train rouge", "id": 80}
+{"caption": "English: a red giraffe and a brown train\nRussian: красный жираф и коричневый поезд\nFrench: une girafe rouge et un train marron", "id": 81}
+{"caption": "English: a blue boat and a red suitcase\nRussian: синяя лодка и красный чемодан\nFrench: un bateau bleu et une valise rouge", "id": 82}
+{"caption": "English: a red boat and a blue suitcase\nRussian: красная лодка и синий чемодан\nFrench: un bateau rouge et une valise bleue", "id": 83}
+{"caption": "English: a blue bowl and a brown horse\nRussian: синяя чаша и коричневая лошадь\nFrench: un bol bleu et un cheval brun", "id": 84}
+{"caption": "English: a brown bowl and a blue horse\nRussian: коричневая миска и синяя лошадь\nFrench: un bol marron et un cheval bleu", "id": 85}
+{"caption": "English: a blue backpack and a red train\nRussian: синий рюкзак и красный поезд\nFrench: un sac à dos bleu et un train rouge", "id": 86}
+{"caption": "English: a red backpack and a blue train\nRussian: красный рюкзак и синий поезд\nFrench: un sac à dos rouge et un train bleu", "id": 87}
+{"caption": "English: a gold clock and a red orange\nRussian: золотые часы и красный апельсин\nFrench: une horloge en or et une orange rouge", "id": 88}
+{"caption": "English: a red clock and a gold orange\nRussian: красные часы и золотисто-оранжевый\nFrench: une horloge rouge et une orange dorée", "id": 89}
+{"caption": "English: a brown bear and a blue vase\nRussian: бурый медведь и синяя ваза\nFrench: un ours brun et un vase bleu", "id": 90}
+{"caption": "English: a blue bear and a brown vase\nRussian: синий медведь и коричневая ваза\nFrench: un ours bleu et un vase marron", "id": 91}
+{"caption": "English: a green apple and a brown elephant\nRussian: зелёное яблоко и коричневый слон\nFrench: une pomme verte et un éléphant marron", "id": 92}
+{"caption": "English: a brown apple and a green elephant\nRussian: коричневое яблоко и зеленый слон\nFrench: une pomme brune et un éléphant vert", "id": 93}
+{"caption": "English: a green banana and a brown bear\nRussian: зелёный банан и бурый медведь\nFrench: une banane verte et un ours brun", "id": 94}
+{"caption": "English: a brown banana and a green bear\nRussian: коричневый банан и зелёный медведь\nFrench: une banane brune et un ours vert", "id": 95}
+{"caption": "English: a blue boat and a brown cat\nRussian: синяя лодка и коричневый кот\nFrench: un bateau bleu et un chat brun", "id": 96}
+{"caption": "English: a brown boat and a blue cat\nRussian: коричневая лодка и синий кот\nFrench: un bateau marron et un chat bleu", "id": 97}
+{"caption": "English: a green banana and a blue boat\nRussian: зеленый банан и голубая лодка\nFrench: une banane verte et un bateau bleu", "id": 98}
+{"caption": "English: a blue banana and a green boat\nRussian: синяя банан и зелёная лодка\nFrench: une banane bleue et un bateau vert", "id": 99}
+{"caption": "English: a red car and a blue cup\nRussian: красная машина и синяя чашка\nFrench: une voiture rouge et une tasse bleue", "id": 100}
+{"caption": "English: a blue car and a red cup\nRussian: синяя машина и красная чашка\nFrench: une voiture bleue et une tasse rouge", "id": 101}
+{"caption": "English: a blue backpack and a red car\nRussian: синий рюкзак и красная машина\nFrench: un sac à dos bleu et une voiture rouge", "id": 102}
+{"caption": "English: a red backpack and a blue car\nRussian: красный рюкзак и синяя машина\nFrench: un sac à dos rouge et une voiture bleue", "id": 103}
+{"caption": "English: a brown cow and a blue cup\nRussian: коричневая корова и синяя чашка\nFrench: une vache brune et une tasse bleue", "id": 104}
+{"caption": "English: a blue cow and a brown cup\nRussian: синяя корова и коричневая чашка\nFrench: une vache bleue et une tasse marron", "id": 105}
+{"caption": "English: a red train and a blue vase\nRussian: красный поезд и синяя ваза\nFrench: un train rouge et un vase bleu", "id": 106}
+{"caption": "English: a blue train and a red vase\nRussian: синий поезд и красная ваза\nFrench: un train bleu et un vase rouge", "id": 107}
+{"caption": "English: a brown giraffe and a red orange\nRussian: коричневый жираф и красный апельсин\nFrench: une girafe brune et une orange rouge", "id": 108}
+{"caption": "English: a red giraffe and a brown orange\nRussian: красный жираф и коричневый апельсин\nFrench: une girafe rouge et une orange brune", "id": 109}
+{"caption": "English: a green banana and a brown cow\nRussian: зеленый банан и коричневая корова\nFrench: une banane verte et une vache brune", "id": 110}
+{"caption": "English: a brown banana and a green cow\nRussian: коричневый банан и зелёная корова\nFrench: une banane brune et une vache verte", "id": 111}
+{"caption": "English: a brown giraffe and a blue vase\nRussian: коричневый жираф и синяя ваза\nFrench: une girafe brune et un vase bleu", "id": 112}
+{"caption": "English: a blue giraffe and a brown vase\nRussian: синяя жирафа и коричневая ваза\nFrench: une girafe bleue et un vase marron", "id": 113}
+{"caption": "English: a brown cow and a red suitcase\nRussian: коричневая корова и красный чемодан\nFrench: une vache brune et une valise rouge", "id": 114}
+{"caption": "English: a red cow and a brown suitcase\nRussian: красная корова и коричневый чемодан\nFrench: une vache rouge et une valise marron", "id": 115}
+{"caption": "English: a green apple and a blue cup\nRussian: зеленое яблоко и синяя чашка\nFrench: une pomme verte et une tasse bleue", "id": 116}
+{"caption": "English: a blue apple and a green cup\nRussian: голубое яблоко и зелёная чашка\nFrench: une pomme bleue et une tasse verte", "id": 117}
+{"caption": "English: a red book and a brown sheep\nRussian: красная книга и коричневая овца\nFrench: un livre rouge et un mouton brun", "id": 118}
+{"caption": "English: a brown book and a red sheep\nRussian: коричневая книга и красная овца\nFrench: un livre brun et un mouton rouge", "id": 119}
+{"caption": "English: a green banana and a brown giraffe\nRussian: зеленый банан и коричневый жираф\nFrench: une banane verte et une girafe brune", "id": 120}
+{"caption": "English: a brown banana and a green giraffe\nRussian: коричневый банан и зелёный жираф\nFrench: une banane brune et une girafe verte", "id": 121}
+{"caption": "English: a blue boat and a red book\nRussian: синяя лодка и красная книга\nFrench: un bateau bleu et un livre rouge", "id": 122}
+{"caption": "English: a red boat and a blue book\nRussian: красная лодка и синяя книга\nFrench: un bateau rouge et un livre bleu", "id": 123}
+{"caption": "English: a blue cup and a brown elephant\nRussian: синяя чашка и коричневый слон\nFrench: une tasse bleue et un éléphant marron", "id": 124}
+{"caption": "English: a brown cup and a blue elephant\nRussian: коричневая чашка и синий слон\nFrench: une tasse marron et un éléphant bleu", "id": 125}
+{"caption": "English: a red chair and a brown sheep\nRussian: красный стул и коричневая овца\nFrench: une chaise rouge et un mouton brun", "id": 126}
+{"caption": "English: a brown chair and a red sheep\nRussian: коричневый стул и красная овца\nFrench: une chaise marron et un mouton rouge", "id": 127}
+{"caption": "English: a brown bear and a blue boat\nRussian: коричневый медведь и синяя лодка\nFrench: un ours brun et un bateau bleu", "id": 128}
+{"caption": "English: a blue bear and a brown boat\nRussian: синий медведь и коричневая лодка\nFrench: un ours bleu et un bateau marron", "id": 129}
+{"caption": "English: a red car and a white sheep\nRussian: красная машина и белая овца\nFrench: une voiture rouge et un mouton blanc", "id": 130}
+{"caption": "English: a blue bird and a brown bear\nRussian: синяя птица и бурый медведь\nFrench: un oiseau bleu et un ours brun", "id": 131}
+{"caption": "English: a green apple and a black backpack\nRussian: зелёное яблоко и чёрный рюкзак\nFrench: une pomme verte et un sac à dos noir", "id": 132}
+{"caption": "English: a green cup and a blue cell phone\nRussian: зеленая чашка и синий мобильный телефон\nFrench: une tasse verte et un téléphone portable bleu", "id": 133}
+{"caption": "English: a yellow book and a red vase\nRussian: жёлтая книга и красная ваза\nFrench: un livre jaune et un vase rouge", "id": 134}
+{"caption": "English: a white car and a red sheep\nRussian: белая машина и красная овца\nFrench: une voiture blanche et un mouton rouge", "id": 135}
+{"caption": "English: a brown bird and a blue bear\nRussian: коричневая птица и синий медведь\nFrench: un oiseau brun et un ours bleu", "id": 136}
+{"caption": "English: a black apple and a green backpack\nRussian: черное яблоко и зеленый рюкзак\nFrench: une pomme noire et un sac à dos vert", "id": 137}
+{"caption": "English: a blue cup and a green cell phone\nRussian: синяя чашка и зелёный мобильный телефон\nFrench: une tasse bleue et un téléphone portable vert", "id": 138}
+{"caption": "English: a red book and a yellow vase\nRussian: красная книга и жёлтая ваза\nFrench: un livre rouge et un vase jaune", "id": 139}
+{"caption": "English: a red apple and yellow bananas\nRussian: красное яблоко и желтые бананы\nFrench: une pomme rouge et des bananes jaunes", "id": 140}
+{"caption": "English: a yellow apple and red bananas\nRussian: желтое яблоко и красные бананы\nFrench: une pomme jaune et des bananes rouges", "id": 141}
+{"caption": "English: a black hat and a red scarf\nRussian: черная шляпа и красный шарф\nFrench: un chapeau noir et une écharpe rouge", "id": 142}
+{"caption": "English: a red hat and a black scarf\nRussian: красная шапка и чёрный шарф\nFrench: un chapeau rouge et une écharpe noire", "id": 143}
+{"caption": "English: a silver spoon and a blue plate\nRussian: серебряная ложка и синяя тарелка\nFrench: une cuillère en argent et une assiette bleue", "id": 144}
+{"caption": "English: a yellow bus and a green tree\nRussian: жёлтый автобус и зелёное дерево\nFrench: un bus jaune et un arbre vert", "id": 145}
+{"caption": "English: a green bus and a yellow tree\nRussian: зелёный автобус и жёлтое дерево\nFrench: un bus vert et un arbre jaune", "id": 146}
+{"caption": "English: a red apple and a purple grape\nRussian: красное яблоко и фиолетовый виноград\nFrench: une pomme rouge et un raisin violet", "id": 147}
+{"caption": "English: a purple apple and a red grape\nRussian: фиолетовое яблоко и красный виноград\nFrench: une pomme violette et un raisin rouge", "id": 148}
+{"caption": "English: a white dove and a black feather\nRussian: белый голубь и черное перо\nFrench: une colombe blanche et une plume noire", "id": 149}
+{"caption": "English: a black dove and a white feather\nRussian: черный голубь и белое перо\nFrench: une colombe noire et une plume blanche", "id": 150}
+{"caption": "English: a brown acorn and a green leaf\nRussian: коричневый желудь и зелёный лист\nFrench: un gland brun et une feuille verte", "id": 151}
+{"caption": "English: a green acorn and a brown leaf\nRussian: зелёный желудь и коричневый лист\nFrench: un gland vert et une feuille brune", "id": 152}
+{"caption": "English: a red stop sign and a white line\nRussian: красный знак \"стоп\" и белая линия\nFrench: un panneau d'arrêt rouge et une ligne blanche", "id": 153}
+{"caption": "English: a stop sign and red white line\nRussian: знак \"стоп\" и красно-белая линия\nFrench: un panneau d'arrêt et une ligne rouge et blanche", "id": 154}
+{"caption": "English: a black cat and a brown mouse\nRussian: черная кошка и коричневая мышь\nFrench: un chat noir et une souris brune", "id": 155}
+{"caption": "English: a brown cat and a black mouse\nRussian: коричневая кошка и черная мышь\nFrench: un chat brun et une souris noire", "id": 156}
+{"caption": "English: a blue pen and a yellow highlighter\nRussian: синяя ручка и жёлтый маркер\nFrench: un stylo bleu et un surligneur jaune", "id": 157}
+{"caption": "English: a yellow pen and a blue highlighter\nRussian: желтая ручка и голубой маркер\nFrench: un stylo jaune et un surligneur bleu", "id": 158}
+{"caption": "English: a black moon and a white sky\nRussian: чёрная луна и белое небо\nFrench: une lune noire et un ciel blanc", "id": 159}
+{"caption": "English: a yellow pencil and a blue notebook\nRussian: жёлтый карандаш и синяя тетрадь\nFrench: un crayon jaune et un carnet bleu", "id": 160}
+{"caption": "English: a green leaf and a yellow flower\nRussian: зелёный лист и жёлтый цветок\nFrench: une feuille verte et une fleur jaune", "id": 161}
+{"caption": "English: a yellow leaf and a green flower\nRussian: жёлтый лист и зелёный цветок\nFrench: une feuille jaune et une fleur verte", "id": 162}
+{"caption": "English: a black cat and a white paw\nRussian: черная кошка и белая лапа\nFrench: un chat noir et une patte blanche", "id": 163}
+{"caption": "English: a white cat and a black paw\nRussian: белая кошка и черная лапа\nFrench: un chat blanc et une patte noire", "id": 164}
+{"caption": "English: a yellow duck and a blue pond\nRussian: желтая уточка и голубой пруд\nFrench: un canard jaune et un étang bleu", "id": 165}
+{"caption": "English: a green frog and a brown pond\nRussian: зеленая лягушка и коричневый пруд\nFrench: une grenouille verte et un étang brun", "id": 166}
+{"caption": "English: a brown frog and a green pond\nRussian: коричневая лягушка и зеленый пруд\nFrench: une grenouille brune et un étang vert", "id": 167}
+{"caption": "English: a yellow sun and a red sunset\nRussian: жёлтое солнце и красный закат\nFrench: un soleil jaune et un coucher de soleil rouge", "id": 168}
+{"caption": "English: a red sun and a yellow sunset\nRussian: красное солнце и жёлтый закат\nFrench: un soleil rouge et un coucher de soleil jaune", "id": 169}
+{"caption": "English: a blue pen and a black ink\nRussian: синяя ручка и чёрные чернила\nFrench: un stylo bleu et une encre noire", "id": 170}
+{"caption": "English: a black pen and a blue ink\nRussian: черная ручка и синяя чернила\nFrench: un stylo noir et de l'encre bleue", "id": 171}
+{"caption": "English: a green grass and a yellow dandelion\nRussian: зеленая трава и желтый одуванчик\nFrench: une herbe verte et un pissenlit jaune", "id": 172}
+{"caption": "English: a yellow grass and a green dandelion\nRussian: желтая трава и зелёный одуванчик\nFrench: une herbe jaune et un pissenlit vert", "id": 173}
+{"caption": "English: a black cat and a gray mouse\nRussian: черная кошка и серая мышь\nFrench: un chat noir et une souris grise", "id": 174}
+{"caption": "English: a gray cat and a black mouse\nRussian: серая кошка и чёрная мышь\nFrench: un chat gris et une souris noire", "id": 175}
+{"caption": "English: a red apple and a yellow pear\nRussian: красное яблоко и жёлтая груша\nFrench: une pomme rouge et une poire jaune", "id": 176}
+{"caption": "English: a yellow apple and a red pear\nRussian: желтое яблоко и красная груша\nFrench: une pomme jaune et une poire rouge", "id": 177}
+{"caption": "English: a white snow and a blue sled\nRussian: белый снег и синие сани\nFrench: une neige blanche et une luge bleue", "id": 178}
+{"caption": "English: a blue snow and a white sled\nRussian: синий снег и белые сани\nFrench: une neige bleue et un traîneau blanc", "id": 179}
+{"caption": "English: a green frog and a yellow fly\nRussian: зелёная лягушка и жёлтая муха\nFrench: une grenouille verte et une mouche jaune", "id": 180}
+{"caption": "English: a yellow frog and a green fly\nRussian: желтая лягушка и зеленая муха\nFrench: une grenouille jaune et une mouche verte", "id": 181}
+{"caption": "English: a yellow pencil and a red eraser\nRussian: желтый карандаш и красный ластик\nFrench: un crayon jaune et une gomme rouge", "id": 182}
+{"caption": "English: a red pencil and a yellow eraser\nRussian: красный карандаш и жёлтая ластик\nFrench: un crayon rouge et une gomme jaune", "id": 183}
+{"caption": "English: a black cat and a white whisker\nRussian: черная кошка и белый ус\nFrench: un chat noir et une moustache blanche", "id": 184}
+{"caption": "English: a white cat and a black whisker\nRussian: белая кошка и черные усы\nFrench: un chat blanc et une moustache noire", "id": 185}
+{"caption": "English: a brown tree and a green grass\nRussian: коричневое дерево и зеленая трава\nFrench: un arbre marron et une herbe verte", "id": 186}
+{"caption": "English: a green tree and a brown grass\nRussian: зелёное дерево и коричневая трава\nFrench: un arbre vert et une herbe brune", "id": 187}
+{"caption": "English: a red rose and a white carnation\nRussian: красная роза и белая гвоздика\nFrench: une rose rouge et un œillet blanc", "id": 188}
+{"caption": "English: a white rose and a red carnation\nRussian: белая роза и красная гвоздика\nFrench: une rose blanche et un œillet rouge", "id": 189}
+{"caption": "English: a white cloud and a black sky\nRussian: белое облако и чёрное небо\nFrench: un nuage blanc et un ciel noir", "id": 190}
+{"caption": "English: a black cloud and a white sky\nRussian: черное облако и белое небо\nFrench: un nuage noir et un ciel blanc", "id": 191}
+{"caption": "English: a green leaf and a yellow butterfly\nRussian: зелёный лист и жёлтая бабочка\nFrench: une feuille verte et un papillon jaune", "id": 192}
+{"caption": "English: a yellow leaf and a green butterfly\nRussian: желтый лист и зеленая бабочка\nFrench: une feuille jaune et un papillon vert", "id": 193}
+{"caption": "English: a red tomato and a yellow pepper\nRussian: красный помидор и жёлтый перец\nFrench: une tomate rouge et un poivron jaune", "id": 194}
+{"caption": "English: a yellow tomato and a red pepper\nRussian: желтый помидор и красный перец\nFrench: une tomate jaune et un poivron rouge", "id": 195}
+{"caption": "English: a red apple and a green kiwi\nRussian: красное яблоко и зелёный киви\nFrench: une pomme rouge et un kiwi vert", "id": 196}
+{"caption": "English: a green apple and a red kiwi\nRussian: зелёное яблоко и красный киви\nFrench: une pomme verte et un kiwi rouge", "id": 197}
+{"caption": "English: a white piano and a black bench\nRussian: белое пианино и чёрная скамейка\nFrench: un piano blanc et un banc noir", "id": 198}
+{"caption": "English: a black piano and a white bench\nRussian: чёрное пианино и белая скамейка\nFrench: un piano noir et un banc blanc", "id": 199}
+{"caption": "English: a brown jacket and a black hat\nRussian: коричневый пиджак и черная шляпа\nFrench: une veste marron et un chapeau noir", "id": 200}
+{"caption": "English: a red bear and a brown train\nRussian: красный медведь и коричневый поезд\nFrench: un ours rouge et un train marron", "id": 201}
+{"caption": "English: a red cylinder and a blue cube\nRussian: красный цилиндр и синий куб\nFrench: un cylindre rouge et un cube bleu", "id": 202}
+{"caption": "English: a blue cylinder and a red cube\nRussian: синий цилиндр и красный куб\nFrench: un cylindre bleu et un cube rouge", "id": 203}
+{"caption": "English: a blue spoon and a silver plate\nRussian: синяя ложка и серебряная тарелка\nFrench: une cuillère bleue et une assiette en argent", "id": 204}
+{"caption": "English: a blue bird and a yellow canary\nRussian: синяя птица и желтая канарейка\nFrench: un oiseau bleu et un canari jaune", "id": 205}
+{"caption": "English: a canary and a yellow bluebird\nRussian: канарейка и жёлтая синяя птица\nFrench: un canari et un merle bleu jaune", "id": 206}
+{"caption": "English: a yellow taxi and a black tire\nRussian: желтое такси и черная шина\nFrench: un taxi jaune et un pneu noir", "id": 207}
+{"caption": "English: a black taxi and a yellow tire\nRussian: черное такси и желтая шина\nFrench: un taxi noir et un pneu jaune", "id": 208}
+{"caption": "English: a green snake and a brown log\nRussian: зеленая змея и коричневое бревно\nFrench: un serpent vert et une bûche marron", "id": 209}
+{"caption": "English: a brown snake and a green log\nRussian: коричневая змея и зелёное бревно\nFrench: un serpent brun et une bûche verte", "id": 210}
+{"caption": "English: a white moon and a black sky\nRussian: белая луна и черное небо\nFrench: une lune blanche et un ciel noir", "id": 211}
+{"caption": "English: a blue pencil and a yellow notebook\nRussian: синий карандаш и жёлтая тетрадь\nFrench: un crayon bleu et un cahier jaune", "id": 212}
+{"caption": "English: a blue duck and a yellow pond\nRussian: синяя утка и жёлтый пруд\nFrench: un canard bleu et un étang jaune", "id": 213}
+{"caption": "English: a blue jay and a green parrot\nRussian: синий сойка и зелёный попугай\nFrench: un geai bleu et un perroquet vert", "id": 214}
+{"caption": "English: a green jay and a blue parrot\nRussian: зелёная соек и синий попугай\nFrench: un geai vert et un perroquet bleu", "id": 215}
+{"caption": "English: a brown squirrel and a black nut\nRussian: коричневая белка и черный орех\nFrench: un écureuil brun et une noix noire", "id": 216}
+{"caption": "English: a black squirrel and a brown nut\nRussian: черная белка и коричневый орех\nFrench: un écureuil noir et une noix brune", "id": 217}
+{"caption": "English: a white swan and a black lake\nRussian: белый лебедь и чёрное озеро\nFrench: un cygne blanc et un lac noir", "id": 218}
+{"caption": "English: a black swan and a white lake\nRussian: чёрный лебедь и белое озеро\nFrench: un cygne noir et un lac blanc", "id": 219}
+{"caption": "English: a brown log and a green moss\nRussian: коричневое бревно и зелёный мох\nFrench: une bûche brune et une mousse verte", "id": 220}
+{"caption": "English: a green log and a brown moss\nRussian: зелёное бревно и коричневый мох\nFrench: une bûche verte et une mousse brune", "id": 221}
+{"caption": "English: a brown guitar and a black amplifier\nRussian: коричневая гитара и черный усилитель\nFrench: une guitare brune et un amplificateur noir", "id": 222}
+{"caption": "English: a black guitar and a brown amplifier\nRussian: чёрная гитара и коричневый усилитель\nFrench: une guitare noire et un amplificateur marron", "id": 223}
+{"caption": "English: a white envelope and a blue stamp\nRussian: белый конверт и синяя марка\nFrench: une enveloppe blanche et un timbre bleu", "id": 224}
+{"caption": "English: a blue envelope and a white stamp\nRussian: синий конверт и белая марка\nFrench: une enveloppe bleue et un timbre blanc", "id": 225}
+{"caption": "English: a blue bicycle and a red helmet\nRussian: синий велосипед и красный шлем\nFrench: un vélo bleu et un casque rouge", "id": 226}
+{"caption": "English: a red bicycle and a blue helmet\nRussian: красный велосипед и синий шлем\nFrench: un vélo rouge et un casque bleu", "id": 227}
+{"caption": "English: a yellow taxi and a black tire\nRussian: желтое такси и черная шина\nFrench: un taxi jaune et un pneu noir", "id": 228}
+{"caption": "English: a black taxi and a yellow tire\nRussian: черное такси и желтая шина\nFrench: un taxi noir et un pneu jaune", "id": 229}
+{"caption": "English: a black jacket and a brown hat\nRussian: черная куртка и коричневая шляпа\nFrench: une veste noire et un chapeau brun", "id": 230}
+{"caption": "English: a blue rose and a green tulip\nRussian: синяя роза и зелёный тюльпан\nFrench: une rose bleue et une tulipe verte", "id": 231}
+{"caption": "English: a green rose and a blue tulip\nRussian: зелёная роза и синий тюльпан\nFrench: une rose verte et une tulipe bleue", "id": 232}
+{"caption": "English: a red school bus and a green bag\nRussian: красный школьный автобус и зелёная сумка\nFrench: un bus scolaire rouge et un sac vert", "id": 233}
+{"caption": "English: a green school bus and a red bag\nRussian: зелёный школьный автобус и красная сумка\nFrench: un bus scolaire vert et un sac rouge", "id": 234}
+{"caption": "English: a yellow rabbit and a red rat\nRussian: желтый кролик и красная крыса\nFrench: un lapin jaune et un rat rouge", "id": 235}
+{"caption": "English: a red rabbit and a yellow rat\nRussian: красный кролик и желтая крыса\nFrench: un lapin rouge et un rat jaune", "id": 236}
+{"caption": "English: a red lipstick and a pink blush\nRussian: красная помада и розовые румяна\nFrench: un rouge à lèvres rouge et un blush rose", "id": 237}
+{"caption": "English: a pink lipstick and a red blush\nRussian: розовая помада и красные румяна\nFrench: un rouge à lèvres rose et un fard à joues rouge", "id": 238}
+{"caption": "English: a blue bag and a green water bottle\nRussian: синяя сумка и зелёная бутылка для воды\nFrench: un sac bleu et une gourde verte", "id": 239}
+{"caption": "English: a green bag and a blue water bottle\nRussian: зеленая сумка и синяя бутылка для воды\nFrench: un sac vert et une gourde bleue", "id": 240}
+{"caption": "English: A bathroom with white tile and a beige toilet.\nRussian: Ванная с белой плиткой и бежевым унитазом.\nFrench: Une salle de bain avec des carreaux blancs et une toilette beige.", "id": 241}
+{"caption": "English: A bathroom with beige tile and a white toilet.\nRussian: Ванная комната с бежевой плиткой и белым унитазом.\nFrench: Une salle de bain avec des carreaux beige et une toilette blanche.", "id": 242}
+{"caption": "English: A green bathroom with a mirror and a pink sink.\nRussian: Зеленая ванная с зеркалом и розовой раковиной.\nFrench: Une salle de bain verte avec un miroir et un lavabo rose.", "id": 243}
+{"caption": "English: A pink bathroom with a mirror and a green sink.\nRussian: Розовая ванная комната с зеркалом и зеленой раковиной.\nFrench: Une salle de bain rose avec un miroir et un lavabo vert.", "id": 244}
+{"caption": "English: a black gold and white vase sitting on a counter\nRussian: черно-золотая и белая ваза стоит на прилавке\nFrench: un vase noir, doré et blanc posé sur un comptoir", "id": 245}
+{"caption": "English: a black white and gold vase sitting on a counter\nRussian: черная, белая и золотая ваза, стоящая на прилавке\nFrench: un vase noir, blanc et or posé sur un comptoir", "id": 246}
+{"caption": "English: A small white kitchen with brown wood floor.\nRussian: Маленькая белая кухня с коричневым деревянным полом.\nFrench: Une petite cuisine blanche avec un sol en bois brun.", "id": 247}
+{"caption": "English: A small brown kitchen with white wood floor.\nRussian: Маленькая коричневая кухня с белым деревянным полом.\nFrench: Une petite cuisine marron avec un sol en bois blanc.", "id": 248}
+{"caption": "English: Kitchen scene, grey counter top on one side, whitish on the other and black sink with long neck faucet.\nRussian: Сцена на кухне: серая столешница с одной стороны, беловатая с другой и черная раковина с высоким изливом крана.\nFrench: Scène de cuisine, comptoir gris d'un côté, blanchâtre de l'autre et évier noir avec un robinet à long col.", "id": 249}
+{"caption": "English: Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet.\nRussian: Кухонная сцена, с одной стороны черная столешница, с другой - светлая, и серая раковина с длинным изливом.\nFrench: Scène de cuisine, plan de travail noir d'un côté, blanc de l'autre et évier gris avec robinet à long col.", "id": 250}
+{"caption": "English: Two toilet stall, one blue and the other orange.\nRussian: Две туалетные кабинки, одна синяя, другая оранжевая.\nFrench: Deux cabines de toilette, l'une bleue et l'autre orange.", "id": 251}
+{"caption": "English: Two toilet stall, one orange and the other blue.\nRussian: Две туалетные кабинки, одна оранжевая, другая синяя.\nFrench: Deux cabines de toilettes, l'une orange et l'autre bleue.", "id": 252}
+{"caption": "English: A long, narrow yellow kitchen with black and white floor tiles.\nRussian: Длинная, узкая желтая кухня с черно-белой плиткой на полу.\nFrench: Une cuisine longue et étroite de couleur jaune avec un carrelage noir et blanc.", "id": 253}
+{"caption": "English: A long, narrow black kitchen with yellow and white floor tiles.\nRussian: Длинная, узкая черная кухня с желтыми и белыми напольными плитками.\nFrench: Une cuisine longue et étroite, avec un carrelage jaune et blanc.", "id": 254}
+{"caption": "English: Two hot dogs sit on a white paper plate near a soda cup which are sitting on a green picnic table while a bike and a silver car are parked nearby.\nRussian: Два хот-дога лежат на белой бумажной тарелке рядом со стаканом газировки на зеленом пикниковом столе, рядом припаркованы велосипед и серебристая машина.\nFrench: Deux hot-dogs posés sur une assiette en papier blanche près d'un gobelet de soda sont placés sur une table de pique-nique verte, tandis qu'un vélo et une voiture argentée sont garés à proximité.", "id": 255}
+{"caption": "English: Two hot dogs sit on a green paper plate near a soda cup which are sitting on a white picnic table while a bike and a silver car are parked nearby.\nRussian: Два хот-дога лежат на зеленой бумажной тарелке рядом с чашкой содовой на белом пикниковом столе, в то время как рядом припаркованы велосипед и серебристая машина.\nFrench: Deux hot-dogs posés sur une assiette en papier verte se trouvent près d'un gobelet de soda sur une table de pique-nique blanche, tandis qu'un vélo et une voiture argentée sont garés à proximité.", "id": 256}
+{"caption": "English: A restroom features black and white checkered flooring and two toilets of which has a black seat and lid and the other a white seat and lid.\nRussian: В ванной комнате пол в черно-белую шашечку и два туалета, один из которых с черным сиденьем и крышкой, а другой с белыми.\nFrench: Des toilettes présentent un sol en damier noir et blanc et deux WC dont l'un a une lunette et un couvercle noirs et l'autre une lunette et un couvercle blancs.", "id": 257}
+{"caption": "English: A restroom features white and white checkered flooring and two toilets of which has a black seat and lid and the other a black seat and lid.\nRussian: Туалетная комната с бело-белым шахматным полом и двумя унитазами: у одного сиденье и крышка чёрного цвета, у другого также сиденье и крышка чёрного цвета.\nFrench: Une salle de bain dispose d'un sol en damier blanc et blanc et de deux toilettes, dont l'une avec un siège et un couvercle noirs et l'autre avec un siège et un couvercle noirs.", "id": 258}
+{"caption": "English: Bathroom scene with white background and tan accents.\nRussian: Сцена в ванной с белым фоном и бежевыми акцентами.\nFrench: Scène de salle de bains avec fond blanc et accents beiges.", "id": 259}
+{"caption": "English: Bathroom scene with tan background and white accents.\nRussian: Ванная комната с бежевым фоном и белыми акцентами.\nFrench: Scène de salle de bains avec fond beige et accents blancs.", "id": 260}
+{"caption": "English: A stainless steel oven sits between white cupboards with black counter tops while sun shines through the kitchen windows.\nRussian: Между белыми шкафами с черными столешницами стоит духовка из нержавеющей стали, а солнечный свет проникает через окна кухни.\nFrench: Un four en acier inoxydable se trouve entre des placards blancs avec des plans de travail noirs, tandis que le soleil brille à travers les fenêtres de la cuisine.", "id": 261}
+{"caption": "English: A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows.\nRussian: Между черными шкафами с белыми столешницами стоит духовка из нержавеющей стали, в то время как солнце светит через окна кухни.\nFrench: Un four en acier inoxydable est situé entre des placards noirs avec des plans de travail blancs, tandis que le soleil brille à travers les fenêtres de la cuisine.", "id": 262}
+{"caption": "English: A kitchen with white tile floor and blue sloped ceiling.\nRussian: Кухня с белым кафельным полом и синим наклонным потолком.\nFrench: Une cuisine avec un sol en carrelage blanc et un plafond incliné bleu.", "id": 263}
+{"caption": "English: A kitchen with blue tile floor and white sloped ceiling.\nRussian: Кухня с синим плиточным полом и белым наклонным потолком.\nFrench: Une cuisine avec un sol en carrelage bleu et un plafond incliné blanc.", "id": 264}
+{"caption": "English: A bathroom with green tile and a red shower curtain.\nRussian: Ванная комната с зелёной плиткой и красной занавеской для душа.\nFrench: Une salle de bain avec des carreaux verts et un rideau de douche rouge.", "id": 265}
+{"caption": "English: A bathroom with red tile and a green shower curtain.\nRussian: Ванная комната с красной плиткой и зелёной занавеской для душа.\nFrench: Une salle de bain avec des carreaux rouges et un rideau de douche vert.", "id": 266}
+{"caption": "English: A white bath tub sits empty in a tan, clean bathroom.\nRussian: Ванна белого цвета стоит пустая в чистой, бежевой ванной комнате.\nFrench: Une baignoire blanche est vide dans une salle de bain beige et propre.", "id": 267}
+{"caption": "English: A tan bath tub sits empty in a white, clean bathroom.\nRussian: В бежевой ванне пусто, ванная комната чистая и белая.\nFrench: Une baignoire beige est vide dans une salle de bains blanche et propre.", "id": 268}
+{"caption": "English: two white sheep, a black goat and a white goat in a field\nRussian: два белых барана, черная коза и белая коза в поле\nFrench: Deux moutons blancs, une chèvre noire et une chèvre blanche dans un champ.", "id": 269}
+{"caption": "English: two black sheep, a white goat and a white goat in a field\nRussian: две черные овцы, белая коза и белый козёл в поле\nFrench: deux moutons noirs, une chèvre blanche et une chèvre blanche dans un champ", "id": 270}
+{"caption": "English: A black and white cat sits in a white sink.\nRussian: Черно-белый кот сидит в белой раковине.\nFrench: Un chat noir et blanc est assis dans un évier blanc.", "id": 271}
+{"caption": "English: A black and white cat sits in a white sink.\nRussian: Черно-белый кот сидит в белой раковине.\nFrench: Un chat noir et blanc est assis dans un évier blanc.", "id": 272}
+{"caption": "English: A woman in a white shirt and jeans holds a pink umbrella in the rain.\nRussian: Женщина в белой рубашке и джинсах держит розовый зонтик под дождем.\nFrench: Une femme en chemise blanche et jeans tient un parapluie rose sous la pluie.", "id": 273}
+{"caption": "English: A woman in a pink shirt and jeans holds a white umbrella in the rain.\nRussian: Женщина в розовой рубашке и джинсах держит белый зонт под дождём.\nFrench: Une femme en chemise rose et jean tient un parapluie blanc sous la pluie.", "id": 274}
+{"caption": "English: A small bathroom with a small brown toilet next to a white sink.\nRussian: Маленькая ванная с маленьким коричневым туалетом рядом с белой раковиной.\nFrench: Une petite salle de bains avec un petit WC marron à côté d'un lavabo blanc.", "id": 275}
+{"caption": "English: A small bathroom with a small white toilet next to a brown sink.\nRussian: Маленькая ванная комната с маленьким белым унитазом рядом с коричневой раковиной.\nFrench: Une petite salle de bain avec une petite toilette blanche à côté d'un lavabo marron.", "id": 276}
+{"caption": "English: A black and green tile bathroom with a black toilet and a yellow bucket on the floor.\nRussian: Ванная комната с черно-зелёной плиткой, чёрным унитазом и жёлтым ведром на полу.\nFrench: Une salle de bain avec des carreaux noirs et verts, une toilette noire et un seau jaune sur le sol.", "id": 277}
+{"caption": "English: A black and green tile bathroom with a yellow toilet and a black bucket on the floor.\nRussian: Ванная комната с черно-зелёной плиткой, жёлтым унитазом и чёрным ведром на полу.\nFrench: Une salle de bain avec des carreaux noirs et verts, des toilettes jaunes et un seau noir par terre.", "id": 278}
+{"caption": "English: A red carpet in a bathroom with white fixtures.\nRussian: Красная ковровая дорожка в ванной комнате с белой сантехникой.\nFrench: Un tapis rouge dans une salle de bain avec des installations blanches.", "id": 279}
+{"caption": "English: A white carpet in a bathroom with red fixtures.\nRussian: Белый коврик в ванной комнате с красной сантехникой.\nFrench: Un tapis blanc dans une salle de bains avec des accessoires rouges.", "id": 280}
+{"caption": "English: Many stoplights flash yellow on a snow covered street.\nRussian: Многие светофоры мигают жёлтым на заснеженной улице.\nFrench: Beaucoup de feux de signalisation clignotent en jaune sur une rue couverte de neige.", "id": 281}
+{"caption": "English: Many stoplights flash snow on a yellow covered street.\nRussian: Многие светофоры мерцают в снежной пелене на улице, покрытой желтым.\nFrench: De nombreux feux de signalisation clignotent la neige sur une rue couverte de jaune.", "id": 282}
+{"caption": "English: A blue scooter is parked near a curb in front of a green vintage car.\nRussian: Синий скутер припаркован у бордюра перед зелёным винтажным автомобилем.\nFrench: Un scooter bleu est garé près d'un trottoir devant une voiture ancienne verte.", "id": 283}
+{"caption": "English: A green scooter is parked near a curb in front of a blue vintage car.\nRussian: Зелёный самокат припаркован у бордюра перед синим винтажным автомобилем.\nFrench: Un scooter vert est garé près d'un trottoir devant une voiture vintage bleue.", "id": 284}
+{"caption": "English: A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets.\nRussian: Обеденная зона оснащена деревянным столом и стульями, серебристым холодильником и светло-коричневыми шкафами.\nFrench: Une salle à manger comprend une table et des chaises en bois, un réfrigérateur argenté et des armoires en bois clair.", "id": 285}
+{"caption": "English: A dining area features a wood table and chairs, a brown refrigerator and light silver cabinets.\nRussian: Обеденная зона оснащена деревянным столом и стульями, коричневым холодильником и светло-серыми шкафчиками.\nFrench: Une salle à manger comprend une table et des chaises en bois, un réfrigérateur marron et des armoires en argent clair.", "id": 286}
+{"caption": "English: Bathroom scene, white commode and matching white sink on light brown tone tiled floor.\nRussian: Сцена в ванной: белый унитаз и подходящая по цвету белая раковина на полу с плиткой светло-коричневого оттенка.\nFrench: Scène de salle de bain, toilette blanche et lavabo assorti blanc sur un sol carrelé en tons beige clair.", "id": 287}
+{"caption": "English: Bathroom scene, white commode and matching white sink on light brown tone tiled floor.\nRussian: Сцена в ванной: белый унитаз и подходящая белая раковина на полу, выложенном плиткой светло-коричневого тона.\nFrench: Scène de salle de bain, toilettes blanches et lavabo assorti blanc sur un sol carrelé de tons marron clair.", "id": 288}
+{"caption": "English: A traffic light with a smile green light above a red sign.\nRussian: Светофор с зеленым огоньком в виде смайлика над красным знаком.\nFrench: Un feu de circulation avec un feu vert en forme de sourire au-dessus d'un panneau rouge.", "id": 289}
+{"caption": "English: A traffic light with a smile red light above a green sign.\nRussian: Светофор с красным сигналом в виде улыбки над зеленым знаком.\nFrench: Un feu de circulation avec une lumière rouge souriante au-dessus d'un panneau vert.", "id": 290}
+{"caption": "English: The man on the large black motorcycle has pink chaps.\nRussian: Мужчина на большом черном мотоцикле в розовых кожаных штанах.\nFrench: L'homme sur la grande moto noire porte des chaps roses.", "id": 291}
+{"caption": "English: The man on the large pink motorcycle has black chaps.\nRussian: Мужчина на большом розовом мотоцикле в чёрных кожаных штанах.\nFrench: L'homme sur la grande moto rose porte des chaps noirs.", "id": 292}
+{"caption": "English: A black motorcycle is parked on grey cobblestones.\nRussian: Черный мотоцикл припаркован на серой брусчатке.\nFrench: Une moto noire est garée sur des pavés gris.", "id": 293}
+{"caption": "English: A grey motorcycle is parked on black cobblestones.\nRussian: Серая мотоцикл припаркован на черной булыжной мостовой.\nFrench: Une moto grise est garée sur des pavés noirs.", "id": 294}
+{"caption": "English: The white and yellow clock with a red roof reads 11:44.\nRussian: Белые и желтые часы с красной крышей показывают 11:44.\nFrench: L'horloge blanche et jaune avec un toit rouge indique 11h44.", "id": 295}
+{"caption": "English: The white and red clock with a yellow roof reads 11:44.\nRussian: Белые и красные часы с жёлтой крышей показывают 11:44.\nFrench: L'horloge blanche et rouge avec un toit jaune indique 11h44.", "id": 296}
+{"caption": "English: A man in a gray jacket standing in a kitchen next to a black dog.\nRussian: Мужчина в серой куртке стоит на кухне рядом с черной собакой.\nFrench: Un homme en veste grise se tient dans une cuisine à côté d'un chien noir.", "id": 297}
+{"caption": "English: A man in a black jacket standing in a kitchen next to a gray dog.\nRussian: Мужчина в черной куртке стоит на кухне рядом с серой собакой.\nFrench: Un homme en veste noire se tenant dans une cuisine à côté d'un chien gris.", "id": 298}
+{"caption": "English: a white bathroom with a black and white shower curtain\nRussian: белая ванная комната с черно-белой занавеской для душа\nFrench: une salle de bain blanche avec un rideau de douche noir et blanc", "id": 299}
+{"caption": "English: a white bathroom with a black and white shower curtain\nRussian: белая ванная комната с черно-белой занавеской для душа\nFrench: une salle de bain blanche avec un rideau de douche noir et blanc", "id": 300}

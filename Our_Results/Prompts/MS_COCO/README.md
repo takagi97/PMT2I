@@ -1,0 +1,1 @@
+We splited the COCO data into 4/8 pieces via the *Utils/split_data_eight.py* script and runs each piece on a GPU.

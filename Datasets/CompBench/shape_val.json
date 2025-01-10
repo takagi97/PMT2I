@@ -1,0 +1,904 @@
+{
+    "annotations": [
+        {
+            "caption": "an oblong cucumber and a teardrop plum"
+        },
+        {
+            "caption": "a pentagonal stop sign and a spherical traffic light"
+        },
+        {
+            "caption": "a cubic ice cube and a spherical ice bucket"
+        },
+        {
+            "caption": "an oblong eggplant and a teardrop melon"
+        },
+        {
+            "caption": "a cubic block and a cylindrical bottle"
+        },
+        {
+            "caption": "a cubic block and a cylindrical canister"
+        },
+        {
+            "caption": "a diamond pendant and a round locket"
+        },
+        {
+            "caption": "a teardrop pendant and a cubic bracelet charm"
+        },
+        {
+            "caption": "a pentagonal speed limit sign and a pyramidal paperweight"
+        },
+        {
+            "caption": "a diamond ring and a pyramidal ring box"
+        },
+        {
+            "caption": "a diamond brooch and a teardrop bracelet"
+        },
+        {
+            "caption": "a pentagonal postbox and a pyramidal obelisk"
+        },
+        {
+            "caption": "a conical wizard hat and a spherical crystal wand"
+        },
+        {
+            "caption": "a round muffin and a square napkin"
+        },
+        {
+            "caption": "a cylindrical candle and a pentagonal candle holder"
+        },
+        {
+            "caption": "a round muffin and a square muffin liner"
+        },
+        {
+            "caption": "a spherical globe and a conical flagpole"
+        },
+        {
+            "caption": "a big bear and a small squirrel"
+        },
+        {
+            "caption": "an oval sink and a rectangular mirror."
+        },
+        {
+            "caption": "an oval mirror and a rectangular painting"
+        },
+        {
+            "caption": "a triangular slice of cheese and a rectangular cheese board"
+        },
+        {
+            "caption": "a small bagel and a rectangular sandwich"
+        },
+        {
+            "caption": "a tall skyscraper and a short lamppost"
+        },
+        {
+            "caption": "a teardrop pendant and a triangular chain necklace"
+        },
+        {
+            "caption": "an oblong sweet potato and a teardrop peach"
+        },
+        {
+            "caption": "a spherical balloon and a conical party hat"
+        },
+        {
+            "caption": "a pyramidal trophy and a spherical trophy ball"
+        },
+        {
+            "caption": "an oblong squash and a teardrop plum"
+        },
+        {
+            "caption": "a tall skyscraper and a short street lamp"
+        },
+        {
+            "caption": "a spherical baseball and a conical baseball cap"
+        },
+        {
+            "caption": "an oval coffee table and a rectangular rug"
+        },
+        {
+            "caption": "a round cookie and a square container."
+        },
+        {
+            "caption": "a diamond engagement ring and a round pendant"
+        },
+        {
+            "caption": "an oval bathtub and a square shower curtain"
+        },
+        {
+            "caption": "an oblong acorn squash and a teardrop apricot"
+        },
+        {
+            "caption": "an oblong pear and a teardrop melon"
+        },
+        {
+            "caption": "a tall skyscraper and a short cabin"
+        },
+        {
+            "caption": "a round bag and a square box"
+        },
+        {
+            "caption": "a spherical ball and a conical party hat"
+        },
+        {
+            "caption": "a long snake and a short tree"
+        },
+        {
+            "caption": "a tall basketball player and a small hat"
+        },
+        {
+            "caption": "a square book and a cylindrical pencil"
+        },
+        {
+            "caption": "a cubic block and a cylindrical container of hand cream"
+        },
+        {
+            "caption": "a cubic block and a triangular building set"
+        },
+        {
+            "caption": "a diamond pendant and a round bracelet"
+        },
+        {
+            "caption": "an oval sink and a rectangular soap dispenser"
+        },
+        {
+            "caption": "an oblong squash and a teardrop strawberry"
+        },
+        {
+            "caption": "a rectangular laptop and a teardrop laptop bag"
+        },
+        {
+            "caption": "an oblong carrot and a teardrop plum"
+        },
+        {
+            "caption": "a big hippopotamus and a small rabbit"
+        },
+        {
+            "caption": "a cylindrical vase and a triangular flower arrangement"
+        },
+        {
+            "caption": "a spherical ornament and a triangular tree topper"
+        },
+        {
+            "caption": "a conical Christmas tree and a pentagonal tree skirt"
+        },
+        {
+            "caption": "a round bagel and a square toaster"
+        },
+        {
+            "caption": "a big hippopotamus and a small mouse"
+        },
+        {
+            "caption": "a big lion and a small mouse"
+        },
+        {
+            "caption": "a tall sunflower and a short daisy"
+        },
+        {
+            "caption": "a spherical basketball and a conical referee hat"
+        },
+        {
+            "caption": "a circular rug and a triangular coffee table"
+        },
+        {
+            "caption": "a pyramidal paperweight and a pentagonal paperclip holder"
+        },
+        {
+            "caption": "a cubic box and a pyramidal paperweight"
+        },
+        {
+            "caption": "an oblong zucchini and a teardrop plum"
+        },
+        {
+            "caption": "a cubic block and a cylindrical flashlight."
+        },
+        {
+            "caption": "a pentagonal yield sign and a pyramidal book stand."
+        },
+        {
+            "caption": "an oblong potato and a teardrop mango"
+        },
+        {
+            "caption": "a round basketball and a cylindrical water bottle"
+        },
+        {
+            "caption": "a rectangular mirror and a spherical magnifying glass"
+        },
+        {
+            "caption": "an oblong zucchini and a teardrop cherry"
+        },
+        {
+            "caption": "a tall palm tree and a short cactus"
+        },
+        {
+            "caption": "a diamond bracelet and a rectangular watch"
+        },
+        {
+            "caption": "a pentagonal medal and a pyramidal trophy"
+        },
+        {
+            "caption": "a round bagel and a rectangular sandwich press"
+        },
+        {
+            "caption": "a small block and a cylindrical soda can"
+        },
+        {
+            "caption": "a cubic block and a cylindrical paper towel roll"
+        },
+        {
+            "caption": "a pyramidal candle and a diamond candlestick holder"
+        },
+        {
+            "caption": "a tall skyscraper and a short cottage"
+        },
+        {
+            "caption": "a tall oak tree and a short sapling"
+        },
+        {
+            "caption": "a pentagonal pencil sharpener and a cylindrical eraser"
+        },
+        {
+            "caption": "a round pizza and a rectangular piece of lasagna"
+        },
+        {
+            "caption": "a pyramidal candle holder and a conical candle"
+        },
+        {
+            "caption": "an oblong sweet potato and a teardrop blueberry"
+        },
+        {
+            "caption": "a big gorilla and a small mouse"
+        },
+        {
+            "caption": "a round cookie and a square tin"
+        },
+        {
+            "caption": "a pentagonal caution sign and a pyramidal vase"
+        },
+        {
+            "caption": "a spherical soccer ball and a diamond soccer goal"
+        },
+        {
+            "caption": "a rectangular computer and a teardrop pendant"
+        },
+        {
+            "caption": "an oval picture frame and a rectangular painting"
+        },
+        {
+            "caption": "a pentagonal pencil and a teardrop pencil sharpener"
+        },
+        {
+            "caption": "a teardrop pendant and a pentagonal charm bracelet"
+        },
+        {
+            "caption": "a cubic box and a cylindrical bottle of lotion"
+        },
+        {
+            "caption": "a big tiger and a small kitten"
+        },
+        {
+            "caption": "a pentagonal road sign and a pyramidal bookshelf"
+        },
+        {
+            "caption": "a small rug and a triangular end table"
+        },
+        {
+            "caption": "a teardrop pendant and a spherical bead necklace"
+        },
+        {
+            "caption": "a round bagel and a square piece of toast"
+        },
+        {
+            "caption": "a big elephant and a small cricket"
+        },
+        {
+            "caption": "a cubic ice cube and a cylindrical water bottle"
+        },
+        {
+            "caption": "a pentagonal clock and a conical clock face"
+        },
+        {
+            "caption": "an oblong watermelon and a teardrop pear."
+        },
+        {
+            "caption": "a pyramidal paperweight and a conical pen holder"
+        },
+        {
+            "caption": "a big whale and a small dolphin"
+        },
+        {
+            "caption": "a rectangular television and a teardrop remote control"
+        },
+        {
+            "caption": "an oblong carrot and a teardrop peach"
+        },
+        {
+            "caption": "a round bagel and a rectangular bacon strip"
+        },
+        {
+            "caption": "a pyramidal tomb and a spherical urn"
+        },
+        {
+            "caption": "a round bagel and a rectangular piece of toast"
+        },
+        {
+            "caption": "a pentagonal badge and a pyramidal crystal"
+        },
+        {
+            "caption": "a spherical snowball and a conical snowman hat"
+        },
+        {
+            "caption": "an oval picture frame and a square painting"
+        },
+        {
+            "caption": "a long bridge and a short fence"
+        },
+        {
+            "caption": "a triangular slice of pizza and a pentagonal pizza box"
+        },
+        {
+            "caption": "a diamond tiara and a round brooch"
+        },
+        {
+            "caption": "a circular pendant light and a triangular corner shelf."
+        },
+        {
+            "caption": "a spherical snowball and a conical party hat"
+        },
+        {
+            "caption": "a big bear and a small rabbit"
+        },
+        {
+            "caption": "a pentagonal star and a crescent moon"
+        },
+        {
+            "caption": "a cubic block and a cylindrical toothpaste tube"
+        },
+        {
+            "caption": "a pyramidal trophy and a spherical trophy stand"
+        },
+        {
+            "caption": "a round bagel and a rectangular breakfast sandwich"
+        },
+        {
+            "caption": "a pentagonal traffic sign and a pyramidal paper clip holder"
+        },
+        {
+            "caption": "a big elephant and a small dog"
+        },
+        {
+            "caption": "a cubic box and a conical party hat"
+        },
+        {
+            "caption": "a spherical tennis ball and a conical tennis shoe"
+        },
+        {
+            "caption": "a pentagonal parking sign and a pyramidal trophy"
+        },
+        {
+            "caption": "a pyramidal bookend and a conical bookstand"
+        },
+        {
+            "caption": "a spherical snow globe and an oblong frame"
+        },
+        {
+            "caption": "a cubic block and a cylindrical container of markers"
+        },
+        {
+            "caption": "a circular dining table and a triangular table runner"
+        },
+        {
+            "caption": "a circular mirror and a triangular shelf unit"
+        },
+        {
+            "caption": "a cubic block and a cylindrical tube of toothpaste"
+        },
+        {
+            "caption": "an oblong potato and a teardrop grapefruit"
+        },
+        {
+            "caption": "a triangular slice of pizza and a pyramidal pizza box"
+        },
+        {
+            "caption": "a cubic block and a pyramidal puzzle box"
+        },
+        {
+            "caption": "a conical lampshade and a cubic lamp base"
+        },
+        {
+            "caption": "a round pizza and a square pizza box"
+        },
+        {
+            "caption": "a pentagonal yield sign and a pyramidal salt shaker"
+        },
+        {
+            "caption": "an oblong squash and a teardrop nectarine."
+        },
+        {
+            "caption": "a cubic dice and a triangular game piece"
+        },
+        {
+            "caption": "a circular pendant light and a triangular wall hook"
+        },
+        {
+            "caption": "a small bathtub and a rectangular bath mat"
+        },
+        {
+            "caption": "a cubic book and a cylindrical can of soup"
+        },
+        {
+            "caption": "a pentagonal pencil sharpener and a spherical pencil eraser"
+        },
+        {
+            "caption": "a circular mirror and a triangular corner shelf"
+        },
+        {
+            "caption": "a triangular slice of pie and a rectangular pie dish"
+        },
+        {
+            "caption": "a cubic block and a cylindrical bottle of water"
+        },
+        {
+            "caption": "a tall basketball player and a short jockey."
+        },
+        {
+            "caption": "a teardrop pendant and a pyramidal gemstone"
+        },
+        {
+            "caption": "a big hippopotamus and a small cat"
+        },
+        {
+            "caption": "a circular clock and a triangular wall shelf."
+        },
+        {
+            "caption": "a tall lighthouse and a short bench"
+        },
+        {
+            "caption": "a round bagel and a square toaster."
+        },
+        {
+            "caption": "a circular clock and a triangular wall art"
+        },
+        {
+            "caption": "a pyramidal puzzle box and a cubic puzzle piece"
+        },
+        {
+            "caption": "an oblong squash and a teardrop apricot"
+        },
+        {
+            "caption": "a spherical globe and a conical pencil."
+        },
+        {
+            "caption": "an oblong cucumber and a teardrop kiwi"
+        },
+        {
+            "caption": "a spherical beach ball and a conical party hat"
+        },
+        {
+            "caption": "an oval rug and a square coffee table"
+        },
+        {
+            "caption": "a diamond engagement ring and a teardrop necklace"
+        },
+        {
+            "caption": "an oblong carrot and a teardrop grape"
+        },
+        {
+            "caption": "a spherical soccer ball and a conical traffic cone"
+        },
+        {
+            "caption": "a tall skyscraper and a short bush."
+        },
+        {
+            "caption": "a small stop sign and a pyramidal paperweight"
+        },
+        {
+            "caption": "a cubic block and a cylindrical jar of honey"
+        },
+        {
+            "caption": "a round pizza and a rectangular slice of bread"
+        },
+        {
+            "caption": "a round bagel and a rectangular toaster"
+        },
+        {
+            "caption": "a rectangular table and a pentagonal tablecloth"
+        },
+        {
+            "caption": "a tall palm tree and a short shrub"
+        },
+        {
+            "caption": "a big pig and a small mouse"
+        },
+        {
+            "caption": "an oblong squash and a teardrop peach"
+        },
+        {
+            "caption": "a pentagonal stop sign and a pyramidal monument"
+        },
+        {
+            "caption": "a small eraser and a cylindrical pen"
+        },
+        {
+            "caption": "a spherical globe and a conical pencil sharpener"
+        },
+        {
+            "caption": "a pyramidal trophy and a pentagonal trophy base"
+        },
+        {
+            "caption": "an oval bathtub and a rectangular soap dish"
+        },
+        {
+            "caption": "a rectangular wallet and a spherical coin purse"
+        },
+        {
+            "caption": "a pentagonal badge and a pyramidal monument"
+        },
+        {
+            "caption": "a tall tree and a short bush"
+        },
+        {
+            "caption": "a cubic dice and a cylindrical pencil holder"
+        },
+        {
+            "caption": "a pentagonal street sign and a pyramidal pyramid"
+        },
+        {
+            "caption": "a pyramidal mountain and a conical volcano"
+        },
+        {
+            "caption": "a diamond ring and a round necklace"
+        },
+        {
+            "caption": "a pentagonal badge and a pyramidal award statue"
+        },
+        {
+            "caption": "a spherical golf ball and a conical tee."
+        },
+        {
+            "caption": "a tall oak tree and a short blade of grass"
+        },
+        {
+            "caption": "a rectangular table and a round lamp"
+        },
+        {
+            "caption": "an oval platter and a rectangular tablecloth."
+        },
+        {
+            "caption": "a teardrop pendant and a diamond brooch pin"
+        },
+        {
+            "caption": "a round doughnut and a square napkin."
+        },
+        {
+            "caption": "a diamond cufflink and a spherical shirt button"
+        },
+        {
+            "caption": "a cubic dice and a cylindrical salt shaker"
+        },
+        {
+            "caption": "an oblong eggplant and a teardrop fig."
+        },
+        {
+            "caption": "a pentagonal stop sign and a pyramidal sculpture"
+        },
+        {
+            "caption": "a circular clock and a triangular shelf"
+        },
+        {
+            "caption": "a round watermelon and a square cutting board."
+        },
+        {
+            "caption": "a circular clock and a triangular bookshelf"
+        },
+        {
+            "caption": "a big whale and a small shrimp"
+        },
+        {
+            "caption": "an oval picture and a rectangular frame."
+        },
+        {
+            "caption": "an oval dining table and a square dining chair"
+        },
+        {
+            "caption": "a cubic die and a cylindrical flashlight"
+        },
+        {
+            "caption": "a triangular slice of bread and a rectangular bread basket"
+        },
+        {
+            "caption": "a pentagonal toolbox and a spherical toolset"
+        },
+        {
+            "caption": "a small key and a big door"
+        },
+        {
+            "caption": "an oval coffee table and a square end table"
+        },
+        {
+            "caption": "a round balloon and a rectangular party invitation"
+        },
+        {
+            "caption": "a spherical crystal and a pyramidal crystal holder"
+        },
+        {
+            "caption": "a cubic box of chocolates and a teardrop chocolate truffle"
+        },
+        {
+            "caption": "a pentagonal desk and a diamond desk organizer"
+        },
+        {
+            "caption": "a big mountain and a small tree"
+        },
+        {
+            "caption": "an oval table and a square placemat"
+        },
+        {
+            "caption": "a pentagonal chocolate box and a spherical chocolate truffle"
+        },
+        {
+            "caption": "a circular ceiling light and a triangular bookshelf."
+        },
+        {
+            "caption": "a spherical bowling ball and a conical bowling pin"
+        },
+        {
+            "caption": "a big gorilla and a small monkey"
+        },
+        {
+            "caption": "a short book and a long bookmark"
+        },
+        {
+            "caption": "a small keychain and a big set of keys"
+        },
+        {
+            "caption": "a pyramidal gift box and a cubic gift wrap"
+        },
+        {
+            "caption": "a cubic Rubik's cube and a pentagonal game box"
+        },
+        {
+            "caption": "a big sunflower and a small daisy"
+        },
+        {
+            "caption": "a cubic Rubik's cube and a cylindrical pencil holder"
+        },
+        {
+            "caption": "a pentagonal handbag and a spherical keychain charm"
+        },
+        {
+            "caption": "a big truck and a small car"
+        },
+        {
+            "caption": "a long necklace and a short earring"
+        },
+        {
+            "caption": "an oval coffee table and a square ottoman"
+        },
+        {
+            "caption": "a rectangular phone and a teardrop phone charm"
+        },
+        {
+            "caption": "a small cup and a big saucer"
+        },
+        {
+            "caption": "a small pebble and a big rock"
+        },
+        {
+            "caption": "a cubic sugar cube and a cylindrical salt shaker"
+        },
+        {
+            "caption": "a small button and a big zipper"
+        },
+        {
+            "caption": "a spherical balloon and a rectangular banner"
+        },
+        {
+            "caption": "a big balloon and a small marble"
+        },
+        {
+            "caption": "a diamond wine glass and a cylindrical wine bottle"
+        },
+        {
+            "caption": "a round peach and a rectangular bar of soap"
+        },
+        {
+            "caption": "a triangular slice of bread and a cylindrical loaf"
+        },
+        {
+            "caption": "an oblong potato and a teardrop plum"
+        },
+        {
+            "caption": "an oval pizza and a round pizza cutter."
+        },
+        {
+            "caption": "a triangular sign and a small sculpture"
+        },
+        {
+            "caption": "an big bathtub and a square showerhead"
+        },
+        {
+            "caption": "a small lion and a big horse"
+        },
+        {
+            "caption": "a round cinnamon roll and a round toaster pastry"
+        },
+        {
+            "caption": "The cylindrical water bottle with its square lid and conical base kept hikers hydrated on the triangular trail."
+        },
+        {
+            "caption": "The rectangular mirror with its oval reflection and oblong frame hung in the round bathroom."
+        },
+        {
+            "caption": "The teardrop earrings with their triangular studs and spherical pearls sparkled in the diamond jewelry box."
+        },
+        {
+            "caption": "The cubic bookshelf with its cylindrical legs and rectangular shelves held books in the oblong study."
+        },
+        {
+            "caption": "The triangular sail with its pentagonal stitching and oblong boom propelled the circular boat on the ocean."
+        },
+        {
+            "caption": "The crescent sofa with its square cushions and oval back provided seating in the triangular living room."
+        },
+        {
+            "caption": "The oblong vase with its diamond pattern and circular mouth displayed flowers in the conical corner of the room."
+        },
+        {
+            "caption": "The pyramidal pyramid with its triangular base and rectangular entrance attracted tourists to the square desert."
+        },
+        {
+            "caption": "The circular steering wheel with its triangular spokes and oblong rim controlled the conical car on the pentagonal road."
+        },
+        {
+            "caption": "The conical ice cream cone with its spherical scoop and triangular cone held a tasty treat in the diamond park."
+        },
+        {
+            "caption": "A long rectangular table and a small circular vase were placed in the center of the room."
+        },
+        {
+            "caption": "The cylindrical tower and the spherical dome stood tall against the skyline."
+        },
+        {
+            "caption": "The triangular wedge and the oblong brick were the only pieces left in the construction set."
+        },
+        {
+            "caption": "The round knob and the square plate were attached to the door."
+        },
+        {
+            "caption": "The teardrop pendant and the diamond-studded bracelet were her favorite pieces of jewelry."
+        },
+        {
+            "caption": "The conical hat and the crescent moon were the only things visible in the night sky."
+        },
+        {
+            "caption": "A row of cubic boxes and a pile of pyramidal stones were stacked neatly in the corner of the room."
+        },
+        {
+            "caption": "The oval mirror and the rectangular frame were mounted on the wall."
+        },
+        {
+            "caption": "The spherical ball and the pentagonal pyramid were the objects of focus in the geometry lesson."
+        },
+        {
+            "caption": "The triangular sail and the square deck were the defining features of the sailboat."
+        },
+        {
+            "caption": "The cylindrical barrel and the conical flask were the only containers left in the laboratory."
+        },
+        {
+            "caption": "The oblong rug and the circular ottoman were arranged in the center of the living room."
+        },
+        {
+            "caption": "The diamond window and the rectangular door were the only openings in the otherwise blank wall."
+        },
+        {
+            "caption": "The spherical planet and the crescent moon were the celestial bodies that fascinated him the most."
+        },
+        {
+            "caption": "The triangular slice and the round pizza were the only options on the menu."
+        },
+        {
+            "caption": "The cubic dice and the cylindrical pencil were the tools of his favorite game."
+        },
+        {
+            "caption": "The teardrop leaves and the oval petals made up the floral arrangement on the table."
+        },
+        {
+            "caption": "The square room and the oblong hallway were the only spaces in the house."
+        },
+        {
+            "caption": "The pyramidal roof and the triangular archway were the defining features of the ancient temple."
+        },
+        {
+            "caption": "The circular wreath and the rectangular picture frame hung on the front door."
+        },
+        {
+            "caption": "The conical hat and the spherical ball were the objects of attention in the magic show."
+        },
+        {
+            "caption": "The crescent curve and the diamond pattern were the highlights of the carpet design."
+        },
+        {
+            "caption": "The pentagonal prism and the triangular pyramid were the shapes that he struggled with the most in math class."
+        },
+        {
+            "caption": "The cylindrical column and the square pedestal were the only pieces of furniture in the foyer."
+        },
+        {
+            "caption": "The oblong table and the round chairs were arranged for the dinner party."
+        },
+        {
+            "caption": "The spherical globe and the teardrop droplet were the symbols of science and nature."
+        },
+        {
+            "caption": "The triangular roof and the diamond windows were the defining features of the modern architecture."
+        },
+        {
+            "caption": "The cubic block and the cylindrical tube were the building blocks for his latest invention."
+        },
+        {
+            "caption": "The rectangular screen and the oval speakers were the only electronic devices in the room."
+        },
+        {
+            "caption": "The conical mountain and the crescent beach were the contrasting views from the hotel room."
+        },
+        {
+            "caption": "The pentagonal star and the square checkerboard were the patterns on the quilt."
+        },
+        {
+            "caption": "The pyramidal shape and the triangular lines were the inspiration for the art project."
+        },
+        {
+            "caption": "The oblong painting and the circular sculpture were the centerpieces of the art exhibit."
+        },
+        {
+            "caption": "The diamond ring and the teardrop necklace were the precious gifts from her beloved."
+        },
+        {
+            "caption": "The cylindrical tower and the spherical fountain were the landmarks of the city."
+        },
+        {
+            "caption": "The triangular flag and the rectangular banner were waving in the wind on the parade."
+        },
+        {
+            "caption": "The cubic room and the conical lampshade were the unique features of the hotel suite."
+        },
+        {
+            "caption": "The oval platter and the round bowl were used for serving dinner."
+        },
+        {
+            "caption": "The pentagonal prism and the pyramidal tetrahedron were the shapes of the crystals in the museum exhibit."
+        },
+        {
+            "caption": "A triangular plane and a circular hot air balloon floated in the sky."
+        },
+        {
+            "caption": "A small kitten and a big dog sat side by side."
+        },
+        {
+            "caption": "A long road and a short path led to the same destination."
+        },
+        {
+            "caption": "The tall tree and the short shrub created a contrast in the garden."
+        },
+        {
+            "caption": "The big book and the small notepad were both useful for different purposes."
+        },
+        {
+            "caption": "The long dress and the short skirt were both fashionable choices."
+        },
+        {
+            "caption": "The tall tower and the short building dominated the skyline."
+        },
+        {
+            "caption": "The big elephant and the small mouse made an unlikely pair."
+        },
+        {
+            "caption": "The long river and the short stream flowed through the picturesque valley."
+        },
+        {
+            "caption": "The tall ladder and the short stool were both necessary for reaching high places."
+        },
+        {
+            "caption": "The big house and the small cabin provided different types of accommodations."
+        }
+    ]
+}

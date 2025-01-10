@@ -1,0 +1,3 @@
+[console_scripts]
+lumina = lumina_t2i:entry_point
+lumina_next = lumina_next_t2i:entry_point

@@ -1,0 +1,1 @@
+Following DALL-E 3, we also run this benchmark 4 times by reduplicating every piece of data in this benchmark 4 times via the *Utils/copy_db_four.py* script.
