@@ -39,7 +39,7 @@ Installation commands:
 pip install openai tqdm datetime tiktoken
 ```
 
-For other environments used to conduct inference and evaluation, please the requirement files in Requirements.
+For other environments used to conduct inference and evaluation, please see the requirement files in Requirements.
 
 ## Citation
 
