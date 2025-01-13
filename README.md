@@ -1,8 +1,12 @@
 # Boosting Text-To-Image Generation via Multilingual Prompting in Large Multimodal Models
 
-This repository contains the datasets, code, and results for our ICASSP 2025 [paper](). We aim to enhance the comprehension of input text within the in-context learning paradigm for large multimodal models. Our method, PMT2I, involves translating text prompts into multiple languages, constructing parallel multilingual prompts, performing inference with large multimodal models, and reranking the image candidates.
+This repository contains the datasets, code, and results for our ICASSP 2025 [paper](). We aim to enhance the comprehension of input text within the in-context learning paradigm for large multimodal models.
 
 ![PMT2I](Figures/PMT2I_method.png)
+
+Our method, PMT2I, involves translating text prompts into multiple languages, constructing parallel multilingual prompts, performing inference with large multimodal models, and reranking the image candidates.
+
+![PMT2I](Figures/PMT2I_samples.png)
 
 <details>
   <summary>Here is our abstract.</summary>
