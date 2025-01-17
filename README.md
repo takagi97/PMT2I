@@ -1,6 +1,6 @@
 # Boosting Text-To-Image Generation via Multilingual Prompting in Large Multimodal Models
 
-This repository contains the datasets, code, and results for our ICASSP 2025 [paper](). We aim to enhance the comprehension of input text within the in-context learning paradigm for large multimodal models.
+This repository contains the datasets, code, and results for our ICASSP 2025 [paper](https://arxiv.org/abs/2501.07086). We aim to enhance the comprehension of input text within the in-context learning paradigm for large multimodal models.
 
 ![PMT2I](Figures/PMT2I_method.png)
 
@@ -49,7 +49,12 @@ For other environments used to conduct inference and evaluation, please see the 
 
 If you find this repository or our results help your research, please consider to cite our paper:
 ```bibtex
-Boosting Text-To-Image Generation via Multilingual Prompting in Large Multimodal Models
+@article{mu2025boosting,
+  title={Boosting Text-To-Image Generation via Multilingual Prompting in Large Multimodal Models},
+  author={Mu, Yongyu and Li, Hengyu and Wang, Junxin and Zhou, Xiaoxuan and Wang, Chenglong and Luo, Yingfeng and He, Qiaozhi and Xiao, Tong and Chen, Guocheng and Zhu, Jingbo},
+  journal={arXiv preprint arXiv:2501.07086},
+  year={2025}
+}
 ```
 
 ## Acknowledgments
